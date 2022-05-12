@@ -1,0 +1,62 @@
+baseURL = "https://impacthubauckland.nz"
+title = "ImpactHub Auckland"
+enableInlineShortcodes = true
+theme = "impacthub"
+enableRobotsTXT = true
+
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+#hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "G-1234567890"
+
+# Disqus Comment System
+#disqusShortname = ""
+
+[params]
+# Base color of the website.
+# https://tailwindcss.com/docs/background-color
+base_color = "bg-white-800"
+
+#Site description
+location = "Auckland"
+description = "Blonde theme for Hugo."
+
+# The number of articles to be displayed on a single page.
+paginator_pages = "5"
+
+# Enable this if you want the archive list to be in a drop-down format.
+archive_dropdown = "false"
+
+# Number of tags to be displayed.
+tagsLimit = 20
+
+# Dark mode by default : dark
+# Light mode by default : light
+darkmode = "light"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About Us"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "programmes"
+    name = "Programmes"
+    url = "/programmes/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "events"
+    name = "Events"
+    url = "/events/"
+    weight = 4

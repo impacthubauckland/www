@@ -1,0 +1,11 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "20:00"
+    timezone: Pacific/Auckland
+  open-pull-requests-limit: 10
+  labels:
+  - automerge

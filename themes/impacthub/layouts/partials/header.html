@@ -1,0 +1,56 @@
+<div class="{{ .Site.Params.base_color }} body-font font-primary">
+    <div class="container max-w-screen-xl mr-auto ml-auto">
+        <nav class="flex items-center justify-between flex-wrap {{ .Site.Params.base_color }} p-6">
+            <div class="flex items-center flex-no-shrink {{ .Site.Params.base_color }} text-gray-800 mr-6">
+                <a href="{{ .Site.BaseURL }}">
+                    <div>
+                        <div class="block sm:inline-block" style="vertical-align: top;"><img alt="Logo" data-src="/img/logo-main.svg" src="/img/logo-main.svg" width="80px"></div>
+                        <div class="block sm:inline-block" style="padding: 10px; font-weight: 600; font-size: 28px; vertical-align: bottom; text-align: left; line-height: 1;">{{ .Site.Params.Location }}</div>
+                    </div>
+                </a>
+            </div>
+            <div class="flex md:hidden">
+                <div class="py-2">
+                    <button onclick="toggleDarkMode()" class="focus:outline-none mr-1" aria-label="Darkmode Toggle Button"><i id="icon"
+                            class="icon-moon inline-flex align-middle leading-normal text-lg text-gray-800"></i></button>
+                    <span class="text-gray-800">|</span>
+                </div>
+                <button id="hamburgerbtn" class="flex items-center px-3 py-1 text-gray-800 hover:opacity-50" aria-label="Hamburger Button">
+                    <span class="icon-menu text-2xl"></span>
+                </button>
+            </div>
+            <div class="hidden w-full md:flex md:flex-row sm:items-center md:w-auto" id="mobileMenu">
+                <div class="text-sm lg:flex-grow">
+                </div>
+                <div class="navmenu">
+                    {{ range .Site.Menus.main }}
+                    <a href="{{ .URL }}"
+                        class="no-underline duration-200 block sm:inline-block sm:mt-0 text-gray-800 hover:opacity-50 mr-4" style="padding: 10px; font-weight: 600; font-size: 16px;  vertical-align: bottom;">
+                        {{ .Name }}
+                    </a>
+                    {{ end }}
+                </div>
+                <div class="text-gray-800 invisible md:visible">
+                    <span>|</span>
+                    <button onclick="toggleDarkMode()" class="focus-visible:outline-none" aria-label="Darkmode Toggle Button"><i id="icon2"
+                            class="icon-moon hover:opacity-50 duration-200 inline-flex align-middle leading-normal text-lg ml-2"></i></button>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
+<style>
+    .active {
+        display: block;
+    }
+</style>
+
+<script>
+    let hamburger = document.getElementById('hamburgerbtn');
+
+    let mobileMenu = document.getElementById('mobileMenu');
+
+    hamburger.addEventListener('click', function () {
+        mobileMenu.classList.toggle('active');
+    });
+</script>

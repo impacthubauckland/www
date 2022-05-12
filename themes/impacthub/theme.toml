@@ -1,0 +1,15 @@
+name = "impacthub"
+license = "MIT"
+licenselink = "https://github.com/opera7133/Blonde/blob/master/LICENSE"
+description = "impacthub, a templated theme using Tailwind CSS"
+
+homepage = ""
+
+demosite = ""
+
+tags = ["blog", "minimal", "light", "dark", "simple", "clean", "tailwindcss", "personal", "responsive"]
+features = ["blog"]
+
+[author]
+  name = ""
+  homepage = ""
