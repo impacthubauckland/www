@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 {{ if eq .Site.Params.darkmode "dark" }}
-<html lang="{{ .Site.LanguageCode | default .Site.Language.Lang }}" class="dark">
+<!-- <html lang="{{ .Site.LanguageCode | default .Site.Language.Lang }}" class="dark"> -->
+<html lang="{{ .Site.LanguageCode | default .Site.Language.Lang }}">
 {{ else }}
 <html lang="{{ .Site.LanguageCode | default .Site.Language.Lang }}">
 {{ end }}
