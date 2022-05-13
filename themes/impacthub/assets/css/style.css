@@ -401,6 +401,7 @@ embed,
 object {
   display: block;
   /* 1 */
+  vertical-align: middle;
   /* 2 */
 }
 
@@ -1256,7 +1257,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .items-center {
-  align-items: flex-end;
+  align-items: center;
 }
 
 .justify-center {
