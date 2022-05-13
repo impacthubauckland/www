@@ -20,7 +20,7 @@ base_color = "bg-white-800"
 
 #Site description
 location = "Auckland"
-description = "Blonde theme for Hugo."
+description = ""
 
 # The number of articles to be displayed on a single page.
 paginator_pages = "5"
