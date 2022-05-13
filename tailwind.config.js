@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     textColor: "#404040",
     fontFamily: {
-      'sans': ["GT Walsheim", 'sans-serif'] 
+      'sans': ["GTWalsheim", 'sans-serif']
     },
     extend: {
       colors: {

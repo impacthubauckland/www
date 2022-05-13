@@ -8,12 +8,6 @@
   font-display: block;
 }
 
-@font-face {
-  font-family: "GT Walsheim";
-  src: url(../fonts/GT-Walsheim-Regular.ttf) format('truetype'),
-    url(../fonts/GT-Walsheim-Regular.woff) format('woff');
-}
-
 [class*=' icon-'],
 [class^='icon-'] {
   font-family: material-icons !important;

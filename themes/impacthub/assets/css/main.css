@@ -2,3 +2,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "GTWalsheim";
+  src: url(../fonts/GT-Walsheim-Regular.ttf) format('truetype'),
+    url(../fonts/GT-Walsheim-Regular.woff) format('woff');
+}
