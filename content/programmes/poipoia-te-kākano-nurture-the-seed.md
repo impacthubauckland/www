@@ -1,5 +1,5 @@
 ---
-title: Poipoia te kākano (Nuture the seed) - Start-up Programme
+title: Poipoia te kākano (Nuture the seed) - Start-up Programme - June 2022
 aliases:
   - nuture-the-seed
   - poipoia-te-kākano
@@ -19,7 +19,12 @@ Applications for June 2022 cohorts are now open.  Free for Auckland residents of
 Who is it for?
 We are looking for motivated candidates who:
 
-* are resident in Oranga/ Roskill South/ Waikōwhai/ Ōwairaka/ Wesley
+* are resident in 
+   * Oranga
+   * Roskill South
+   * Waikōwhai
+   * Ōwairaka
+   * Wesley
 * are interested in creating and testing a new business idea
 * are already in business but are winging it / don’t have a clear vision
 * want to be connected to the vibrant Kiwi startup scene.
