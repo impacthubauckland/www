@@ -19,11 +19,13 @@ Applications for June 2022 cohorts are now open.  Free for Auckland residents of
 Who is it for?
 We are looking for motivated candidates who:
 
-are resident in Oranga/ Roskill South/ Waikōwhai/ Ōwairaka/ Wesley
-are interested in creating and testing a new business idea
-are already in business but are winging it / don’t have a clear vision
-want to be connected to the vibrant Kiwi startup scene.
+* are resident in Oranga/ Roskill South/ Waikōwhai/ Ōwairaka/ Wesley
+* are interested in creating and testing a new business idea
+* are already in business but are winging it / don’t have a clear vision
+* want to be connected to the vibrant Kiwi startup scene.
+
 Candidates of all ages and backgrounds are welcome to apply. You do not have to have a clear idea, nor do you have to have previous experience in business or entrepreneurship to enter the programme. The only entry criteria is a healthy dose of motivation and drive!
+
 
 What's the focus?
 This 8-week ‘pressure-cooker’ of a programme is designed to fast track your entrepreneurial journey. You will be inspired and enabled to create and test a new business idea or innovate your existing business.
