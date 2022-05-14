@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  branch: main
+publish_mode: editorial_workflow
+media_folder: "static/images"
+public_folder: "images"
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/_index.md"
+        label: "Home"
+        name: home
+        fields:
+          - label: "Banner Image + CTA Button"
+            name: banner-cta
+            widget: "object"
+            fields:
+              [
+                { label: "Heading Text", name: "heading", widget: string },
+                { label: "Button Text", name: "button", widget: string },
+                { label: "Background Image", name: "image", widget: image },
+              ]
+              
