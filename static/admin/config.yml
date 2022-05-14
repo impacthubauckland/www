@@ -20,5 +20,57 @@ collections:
                 { label: "Heading Text", name: "heading", widget: string },
                 { label: "Button Text", name: "button", widget: string },
                 { label: "Background Image", name: "image", widget: image },
+                { label: "Heading Alignment", name: "align", widget: "select", options: ["left", "center", "right"] }
               ]
-              
+      - file: "content/about.md"
+        label: "About us"
+        name: about
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: string
+          - label: "Body"
+            name: "body"
+            widget: Text
+      - file: "content/events.md"
+        label: "Events"
+        name: events
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: string
+          - label: "Body"
+            name: "body"
+            widget: Text
+      - file: "content/contact.md"
+        label: "Contact us"
+        name: contact
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: string
+          - label: "Body"
+            name: "body"
+            widget: Text
+      - file: "content/support.md"
+        label: "Support"
+        name: support
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: string
+          - label: "Body"
+            name: "body"
+            widget: Text
+  - name: "programmes"
+    label: "Programmes"
+    folder: "content/programmes"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: string
+      - label: "Body"
+        name: "body"
+        widget: Text
