@@ -3,6 +3,7 @@ title: Poipoia te kākano (Nuture the seed) - Start-up Programme - June 2022
 aliases:
   - nuture-the-seed
   - poipoia-te-kākano
+date: 2022-06-17T05:00:01.424Z
 ---
 ### Poipoia te kākano (Nuture the seed) - Start-up Programme
 
