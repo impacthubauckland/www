@@ -5,8 +5,6 @@ aliases:
   - poipoia-te-kākano
 date: 2022-06-17T05:00:01.424Z
 ---
-### Poipoia te kākano (Nuture the seed) - Start-up Programme
-
 This programme is sponsored by Kāinga Ora.  In the development of KO neighbourhoods, we see many opportunities for supporting community economic development space. Enabling and supporting the locally led businesses to succeed in our new urban areas is a new approach for Kāinga Ora.  Supporting local economic development aligns purposefully with a mandate to support thriving communities in our Large Scale Development neighbourhoods’ particularly in those where commercial space is planned as part of the new urban design masterplan.  
 
 We are partnering with Kāinga Ora to support locally led Social Enterprises development.  The objectives of this programme is to encourage Community Enterprise - Community owned and led, purpose driven businesses, that trade to deliver cultural, social, economic and environmental benefits in a particular community of place.  
