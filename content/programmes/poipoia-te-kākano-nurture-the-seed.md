@@ -6,15 +6,15 @@ aliases:
 ---
 ### Poipoia te kākano (Nuture the seed) - Start-up Programme
 
-This programme is sponsored by  Kāinga Ora.  In the development of KO neighbourhoods, we see many opportunities for supporting community economic development space. Enabling and supporting the locally led businesses to succeed in our new urban areas is a new approach for Kāinga Ora.  Supporting local economic development aligns purposefully with a mandate to support thriving communities in our Large Scale Development neighbourhoods’ particularly in those where commercial space is planned as part of the new urban design masterplan.  
+This programme is sponsored by Kāinga Ora.  In the development of KO neighbourhoods, we see many opportunities for supporting community economic development space. Enabling and supporting the locally led businesses to succeed in our new urban areas is a new approach for Kāinga Ora.  Supporting local economic development aligns purposefully with a mandate to support thriving communities in our Large Scale Development neighbourhoods’ particularly in those where commercial space is planned as part of the new urban design masterplan.  
 
-We are partnering with tKāinga Ora to support locally led Social Enterprises development.  The objectives of this programme is to encourage Community Enterprise - Community owned and led, purpose driven businesses, that trade to deliver cultural, social, economic and environmental benefits in a particular community of place.  
+We are partnering with Kāinga Ora to support locally led Social Enterprises development.  The objectives of this programme is to encourage Community Enterprise - Community owned and led, purpose driven businesses, that trade to deliver cultural, social, economic and environmental benefits in a particular community of place.  
 
-An 8 week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, PtK  is here to upskill, inspire and connect a new wave of changemakers.
+An 8 week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, PtK  is here to up-skill, inspire and connect a new wave of change-makers.
 
-You will be equipped with the tools and knowledge to start your own impact driven business. The global pandemic has opened our eyes to the change that needs to take place in our world, and we’re looking for the changemakers who want to use business as a force for good, and start something new.
+You will be equipped with the tools and knowledge to start your own impact driven business. The global pandemic has opened our eyes to the change that needs to take place in our world, and we’re looking for the change-makers who want to use business as a force for good, and start something new.
 
-Applications for June 2022 cohorts are now open.  Free for Auckland residents of - Oranga Roskill South, Waikōwhai, Ōwairaka and Wesley?).
+Applications for June 2022 cohorts are now open. Free for Auckland residents of - Oranga Roskill South, Waikōwhai, Ōwairaka and Wesley?).
 
 Who is it for?
 We are looking for motivated candidates who:
