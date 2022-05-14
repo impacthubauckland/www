@@ -1,7 +1,7 @@
 +++
 title = "About Us"
 date = "2019-02-28"
-aliases = ["about-us", "contact"]
+aliases = ["about-us"]
 +++
 
 ### Our Story

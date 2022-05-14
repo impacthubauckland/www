@@ -1,7 +1,6 @@
 +++
-title = "Programmes"
-date = "2019-02-28"
-aliases = ["programmes"]
+title = "Poipoia te kākano (Nuture the seed) - Start-up Programme"
+aliases = ["nuture-the-seed", "poipoia-te-kākano"]
 +++
 
 ### Poipoia te kākano (Nuture the seed) - Start-up Programme
@@ -52,7 +51,7 @@ These topics will be delivered by experts in the field. Developing an entreprene
 
 ### What makes Poipoia te kākano special?
 
-At Poipoia te kākano , we do not host workshops where you sit down, listen and leave. We focus on action! Our expert-led workshops are designed to be interactive and practical, so that you have something to work on after every session. You will have key deliverables to work towards and you will pitch your business idea to an audience at the end of the programme.
+At Poipoia te kākano, we do not host workshops where you sit down, listen and leave. We focus on action! Our expert-led workshops are designed to be interactive and practical, so that you have something to work on after every session. You will have key deliverables to work towards and you will pitch your business idea to an audience at the end of the programme.
 
 Furthermore, we bring in entrepreneurs from the impact sector to both lead workshops and share their personal stories and advice. There is also the opportunity to network and potentially join inspiring impact enterprises at the end of the programme as a volunteer or team member.
 
@@ -64,18 +63,10 @@ Applications for the Poipoia te kākano programme for 2022 are now open until 17
 
 Free Impact Hub membership included
 
-Successful participants will receive a free 6-month membership to Impact Hub Waikato and benefit from discounts to workshops, events, programmes as well as coworking options at our Inspiring Space in Hamilton or Auckland (TBA).
+Successful participants will receive a free 6-month membership to Impact Hub Auckland and benefit from discounts to workshops, events, programmes as well as coworking options at our Inspiring Space in Hamilton or Auckland (TBA).
 
 Here’s what previous participants have to say
 
-"The Back to Purpose Programme is the best thing that has happened to my business so far. I have especially embraced the idea of impact and gained more confidence to tell people about the impact they are making with the products I sell. I am currently rebranding and I look forward to applying the lessons I have learned from the workshops. Thank you Impact Hub, Ella, Paul, and all the other wonderful facilitators"
+> The Back to Purpose Programme is the best thing that has happened to my business so far. I have especially embraced the idea of impact and gained more confidence to tell people about the impact they are making with the products I sell. I am currently rebranding and I look forward to applying the lessons I have learned from the workshops. Thank you Impact Hub, Ella, Paul, and all the other wonderful facilitators
 
 Esther Gathambo, Sawubona
-
-In 2021, 38 participants and impact businesses successfully completed the Back to Purpose programme. At the end, we asked them all to rate the programme out of 100. Here's what they told us:
-
-- Overall programme = 94/100  Check for B2P Auckland 
-- Business coaching = 98/100
-- Mindset coaching = 95/100
-- Business coaching = 94/100
-- Business validation support = 92/100
