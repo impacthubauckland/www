@@ -1740,6 +1740,36 @@ Ensure the default browser behavior of the `hidden` attribute.
     url(../fonts/GT-Walsheim-Regular.woff) format('woff');
 }
 
+.logoshape {
+  width: 80px;
+}
+
+.logoblock {
+  vertical-align: top;
+}
+
+.logotextblock {
+  font-weight: 600;
+  font-size: 28px;
+  padding: 0 10px 10px 10px;
+  vertical-align: bottom;
+  text-align: left;
+  line-height: 1;
+}
+
+.navmenu {
+  font-weight: 600;
+  font-size: 18px;
+  padding: 54px 10px 10px 10px;
+  vertical-align: bottom;
+  text-align: left;
+  line-height: 1;
+}
+
+.navflexgrow {
+  vertical-align: top;
+}
+
 .hover\:-translate-y-1:hover {
   --tw-translate-y: -0.25rem;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));

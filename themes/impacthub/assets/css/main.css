@@ -8,3 +8,33 @@
   src: url(../fonts/GT-Walsheim-Regular.ttf) format('truetype'),
     url(../fonts/GT-Walsheim-Regular.woff) format('woff');
 }
+
+.logoshape {
+  width: 80px;
+}
+
+.logoblock {
+  vertical-align: top;
+}
+
+.logotextblock {
+  font-weight: 600;
+  font-size: 28px;
+  padding: 0 10px 10px 10px;
+  vertical-align: bottom;
+  text-align: left;
+  line-height: 1;
+}
+
+.navmenu {
+  font-weight: 600;
+  font-size: 18px;
+  padding: 54px 10px 10px 10px;
+  vertical-align: bottom;
+  text-align: left;
+  line-height: 1;
+}
+
+.navflexgrow {
+  vertical-align: top;
+}
