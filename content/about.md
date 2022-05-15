@@ -16,17 +16,15 @@ Fast forward to 2020, when the board of SEA, who included Paul Kerssans from Imp
 
 The small and mighty IHA team is a driving force behind this new impact eco-system venture. We have collaborated with our sister team at Impact Hub Waikato (IHW) who have spent countless hours developing systems, designing solutions, and stewarding relationships to serve a growing network of stakeholders. Each entrepreneurial team member brings unique skills from their own impact business to share with the change makers of Tāmaki Makaurau.
 
-
+![GST - Ger Stefan Tom]( "GST - Ger Stefan Tom")
 
 ![Tom Va’afusuaga]( "Tom Va’afusuaga")
 
+Tom Va’afusuaga is co-founder of Impact Hub Auckland and has extensive business incubation experience enabling Maori & Pasifika entrepreneurs. Having co-started a social enterprise focused on enabling Maori tribes, Tom understands the mindset needed to take an idea to a thriving impact driven business. Being an accountant he also works alongside kiwi and Pacific Island businesses and NGOs to ensure they are financially viable and are fulfilling their accounting and compliance activities.  Tom is also the founder of [Manulua.](https://www.manulua.co.nz/) 
 
+![Ger (Geraldine) Tew](images/ger-1.jpg "Ger (Geraldine) Tew")
 
-Tom Va’afusuaga is co-founder of Impact Hub Auckland and has extensive business incubation experience enabling Maori & Pasifika entrepreneurs. Having co-started a social enterprise focused on enabling Maori tribes, Tom understands the mindset needed to take an idea to a thriving impact driven business. Being an accountant he also works alongside kiwi and Pacific Island businesses and NGOs to ensure they are financially viable and are fulfilling their accounting and compliance activities
-
-![](images/ger-1.jpg)
-
-
+[Ger (Geraldine) Tew](https://www.linkedin.com/in/geraldine-tew-19924957/) was a board member and events manager for Social Enterprise Auckland.  She has been a core member of the transition to Impact Hub Auckland and is also the Founder of [The ReCreators](https://therecreators.co.nz/), an upcycle collective that delivers circular design programmes in schools and community groups working on how to design products from existing materials. She has strong expertise in product design and development, community building and generic start-up skills. From previous work experience with MBIE, she has a comprehensive understanding of refugee and migrant settlement outcomes and pathways for success. 
 
 ![Stefan Rüegg](images/stefan-photo.jpg "Stefan Rüegg")
 
