@@ -28,11 +28,13 @@
                 <div class="text-sm lg:flex-grow block sm:inline-block">
                 </div>
                 <div class="navmenu mt-auto">
-                    {{ range .Site.Menus.main }}
-                    <a href="{{ .URL }}"
+                    {{ with .Site.GetPage "/" }}
+                    {{ range .Pages }}
+                    <a href="{{ .RelPermalink }}"
                         class="no-underline duration-200 block sm:inline-block sm:mt-0 text-gray-800 hover:opacity-50 mr-4">
                         {{ .Name }}
                     </a>
+                    {{ end }}
                     {{ end }}
                 </div>
                 {{ if false }}

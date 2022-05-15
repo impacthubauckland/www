@@ -34,35 +34,3 @@ tagsLimit = 20
 # Dark mode by default : dark
 # Light mode by default : light
 darkmode = "light"
-
-[menu]
-
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About Us"
-    url = "/about/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "programmes"
-    name = "Programmes"
-    url = "/programmes/"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "events"
-    name = "Events"
-    url = "/events/"
-    weight = 4
-
-  [[menu.main]]
-    identifier = "support"
-    name = "Business Support"
-    url = "/business-support/"
-    weight = 5

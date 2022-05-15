@@ -1,0 +1,10 @@
+html,
+body {
+  color: #444;
+  font-size: 16px;
+  font-family: 'GTWalsheim', Helvetica, Arial, sans-serif;
+}
+
+body {
+  padding: 20px;
+}

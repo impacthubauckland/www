@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: ""
-aliases: ["contact"]
-priority: 6
+weight: 6
 ---
+
+.

@@ -1,72 +1,26 @@
+site_url: https://impacthubauckland.nz
 backend:
   name: git-gateway
   branch: main
 publish_mode: editorial_workflow
 media_folder: "static/images"
-public_folder: "images"
+public_folder: "/images"
 collections:
   - name: "pages"
     label: "Pages"
     folder: "content"
     create: true
-    files:
-      - file: "content/_index.md"
-        label: "Home"
-        name: home
-        fields:
-          - label: "Banner Image + CTA Button"
-            name: banner-cta
-            widget: "object"
-            fields:
-              [
-                { label: "Heading Text", name: "heading", widget: string },
-                { label: "Button Text", name: "button", widget: string },
-                { label: "Background Image", name: "image", widget: image },
-                { label: "Heading Alignment", name: "align", widget: "select", options: ["left", "center", "right", "left-bottom", "right-bottom"] }
-              ]
-          - label: "Body"
-            name: "body"
-            widget: "markdown"
-      - file: "content/about.md"
-        label: "About us"
-        name: about
-        fields:
-          - label: "Title"
-            name: "title"
-            widget: string
-          - label: "Body"
-            name: "body"
-            widget: "markdown"
-      - file: "content/events.md"
-        label: "Events"
-        name: events
-        fields:
-          - label: "Title"
-            name: "title"
-            widget: string
-          - label: "Body"
-            name: "body"
-            widget: "markdown"
-      - file: "content/contact.md"
-        label: "Contact us"
-        name: contact
-        fields:
-          - label: "Title"
-            name: "title"
-            widget: string
-          - label: "Body"
-            name: "body"
-            widget: "markdown"
-      - file: "content/support.md"
-        label: "Support"
-        name: support
-        fields:
-          - label: "Title"
-            name: "title"
-            widget: string
-          - label: "Body"
-            name: "body"
-            widget: "markdown"
+    path: "{{slug}}"
+    fields:
+      - label: "Order sequence"
+        name: "weight"
+        widget: number
+      - label: "Title"
+        name: "title"
+        widget: string
+      - label: "Body"
+        name: "body"
+        widget: markdown
   - name: "programmes"
     label: "Programmes"
     folder: "content/programmes"
@@ -82,3 +36,45 @@ collections:
       - label: "Closing date"
         name: "date"
         widget: "datetime"
+  - name: "people"
+    label: "Our people"
+    folder: "content/about/people"
+    create: true
+    fields:
+      - label: "Name"
+        name: "name"
+        widget: string
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Photo"
+        name: "photo"
+        widget: "image"
+  - name: "offers"
+    label: "Our Offers"
+    folder: "content/iha/offers"
+    create: true
+    fields:
+      - label: "Name"
+        name: "name"
+        widget: string
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Image"
+        name: "image"
+        widget: "image"
+  - name: "focus"
+    label: "Our Focus"
+    folder: "content/iha/focus"
+    create: true
+    fields:
+      - label: "Name"
+        name: "name"
+        widget: string
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Image"
+        name: "image"
+        widget: "image"

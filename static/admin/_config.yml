@@ -1,0 +1,39 @@
+          - label: "Banner Image + CTA Button"
+            name: banner-cta
+            widget: "object"
+            fields:
+              [
+                { label: "Heading Text", name: "heading", widget: string },
+                { label: "Button Text", name: "button", widget: string },
+                { label: "Background Image", name: "image", widget: image },
+                { label: Height, name: height, widget: number },
+                { label: "Heading Alignment", name: "align", widget: "select", options: ["left", "center", "right", "left-bottom", "right-bottom"] }
+              ]
+          - label: "Offers"
+            name: offers
+            widget: "list"
+            fields: 
+              [
+                {label: Image, name: image, widget: image },
+                {label: Height, name: height, widget: number }
+              ]
+          - label: "Focus"
+            name: focus
+            widget: "list"
+            fields: 
+              [
+                {label: Image, name: image, widget: image },
+                {label: Height, name: height, widget: number }
+              ]
+          - label: "Global Network"
+            name: globalnetwork
+            widget: "object"
+            fields:
+              [
+                { label: "Innovators + Entrepreneurs", name: "people-stat", widget: number },
+                { label: "Countries", name: "country-count", widget: number },
+                { label: "Locations", name: "Location-count", widget: number },
+                { label: "Background Image", name: "image", widget: image },
+                { label: Height, name: height, widget: number },
+                { label: "Heading Alignment", name: "align", widget: "select", options: ["left", "center", "right", "left-bottom", "right-bottom"] }
+              ]
