@@ -13,11 +13,11 @@ We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovat
 
 ### WHAT WE OFFER
 
-![](images/networking.png "Events & Networking")
+![Events & Networking](images/networking.png "Events & Networking")
 
-![](images/programmes.png "Programmes")
+![Programmes](images/programmes.png "Programmes")
 
-![](images/support.png "Business Support")
+![Business Support](images/support.png "Business Support")
 
 ### COLLABORATION FOR SYSTEMIC CHANGE
 
@@ -25,9 +25,9 @@ Impact requires significant, dedicated collaboration and collective action. The 
 
 ### OUR FOCUS
 
-![](images/climate.png "Climate")
+![Climate](images/climate.png "Climate")
 
-![](images/equity.png "Equity")
+![Equity](images/equity.png "Equity")
 
 ***Join us today***
 
