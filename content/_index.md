@@ -13,7 +13,7 @@ We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovat
 
 ### WHAT WE OFFER
 
-![Events & Networking](images/networking.png "Events & Networking")
+![Events & Networking](images/1.png "Events & Networking")
 
 ![Programmes](images/2.png "Programmes")
 
