@@ -1,6 +1,6 @@
 ---
-title: "Home"
 weight: 1
+title: Home
 banner-cta:
   button: Join our Change Makers
   heading: Enabling businesses to be a force for good with a focus on social &
@@ -14,11 +14,7 @@ We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovat
 
 ### WHAT WE OFFER
 
-![Events & Networking](images/1.png "Events & Networking")
-
-![Programmes](images/2.png "Programmes")
-
-![Business Support](images/3.png "Business Support")
+{{hlist "offers"}}
 
 ### COLLABORATION FOR SYSTEMIC CHANGE
 
@@ -26,9 +22,7 @@ Impact requires significant, dedicated collaboration and collective action. The 
 
 ### OUR FOCUS
 
-![Climate](images/4.png "Climate")
-
-![Equity](images/5.png "Equity")
+{{hlist "focus"}}
 
 ***Join us today***
 
