@@ -63,6 +63,6 @@ darkmode = "light"
 
   [[menu.main]]
     identifier = "support"
-    name = "Support"
-    url = "/support/"
+    name = "Business Support"
+    url = "/business-support/"
     weight = 5
