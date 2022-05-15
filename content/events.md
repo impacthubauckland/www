@@ -1,6 +1,18 @@
 ---
-title: "Events"
-weight: 4
+aliases:
+  - events
+title: Events & Networking
 ---
+At Impact Hub Auckland, we offer unique and curated events 
 
-{{< humanitix userid="grU4s1jfyhQe0anzJjRbVXPlKF92" height=600 >}}
+Whether you are a impact entrepreneur, creation, innovation, intrapreneur or just curious about how to be part of systemic chance.  We have a mix of in-person and online gatherings.  Topics include
+
+* General business advice around digital marketing, growth strategy, presentations, fundraising and sales
+* Impact measurement
+* Impact investing
+* Climate action business solutions
+* Sustainable business recommendations
+* Equitable business models
+* Inclusive entrepreneurship
+
+![Upcoming Events ](images/banner-ih-upcoming-events-.png "Upcoming Events")
