@@ -20,7 +20,7 @@ The small and mighty IHA team is a driving force behind this new impact eco-syst
 
 ![Tom Va’afusuaga]( "Tom Va’afusuaga")
 
-Tom Va’afusuaga is co-founder of Impact Hub Auckland and has extensive business incubation experience enabling Maori & Pasifika entrepreneurs. Having co-started a social enterprise focused on enabling Maori tribes, Tom understands the mindset needed to take an idea to a thriving impact driven business. Being an accountant he also works alongside kiwi and Pacific Island businesses and NGOs to ensure they are financially viable and are fulfilling their accounting and compliance activities.  Tom is also the founder of [Manulua.](https://www.manulua.co.nz/) 
+[Tom Va’afusuaga](https://www.linkedin.com/in/tom-vaafusuaga/) is co-founder of Impact Hub Auckland and has extensive business incubation experience enabling Maori & Pasifika entrepreneurs. Having co-started a social enterprise focused on enabling Maori tribes, Tom understands the mindset needed to take an idea to a thriving impact driven business. Being an accountant he also works alongside kiwi and Pacific Island businesses and NGOs to ensure they are financially viable and are fulfilling their accounting and compliance activities.  Tom is also the founder of [Manulua.](https://www.manulua.co.nz/) 
 
 ![Ger (Geraldine) Tew](images/ger-1.jpg "Ger (Geraldine) Tew")
 
@@ -28,4 +28,4 @@ Tom Va’afusuaga is co-founder of Impact Hub Auckland and has extensive busines
 
 ![Stefan Rüegg](images/stefan-photo.jpg "Stefan Rüegg")
 
-Stefan Rüegg is a highly versatile strategist, networker and change agent whose work focuses on catalysing positive social and environmental impact in business. He combines more than fifteen years of sustainability experience as a business consultant and corporate sustainability analyst. Originally he qualified as an environmental scientist from Switzerland’s leading scientific university.
+[Stefan Rüegg](https://www.linkedin.com/in/stefan-r%C3%BCegg-b488296/) is a co founder of Impact Hub Auckland and also [Proxima Global](http://proxima.global/).  He is a  highly versatile strategist, networker and change agent whose work focuses on catalysing positive social and environmental impact in business. He combines more than fifteen years of sustainability experience as a business consultant and corporate sustainability analyst. Originally he qualified as an environmental scientist from Switzerland’s leading scientific university.
