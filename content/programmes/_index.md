@@ -1,7 +1,7 @@
-+++
-title = "Programmes"
-aliases = ["programmes"]
-+++
+---
+title: "Programmes"
+weight: 3
+---
 
 In 2021, 38 participants and impact businesses successfully completed the Back to Purpose programme. At the end, we asked them all to rate the programme out of 100. Here's what they told us:
 

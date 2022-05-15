@@ -1,7 +1,6 @@
 ---
 title: "Business Support"
-aliases: ["support", "business-support"]
-priority: 5
+weight: 5
 ---
 
 ## We're here to help you grow your business
