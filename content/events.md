@@ -15,4 +15,8 @@ Whether you are a impact entrepreneur, creation, innovation, intrapreneur or jus
 * Equitable business models
 * Inclusive entrepreneurship
 
+
+
+UPCOMING HUI/EVENTS IN 
+
 ![Upcoming Events ](images/banner-ih-upcoming-events-.png "Upcoming Events")
