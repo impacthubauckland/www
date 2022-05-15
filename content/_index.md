@@ -1,6 +1,6 @@
 ---
-title: "Home"
 priority: 1
+title: Home
 banner-cta:
   button: Join our Change Makers
   heading: Enabling businesses to be a force for good with a focus on social &
@@ -8,7 +8,7 @@ banner-cta:
   align: left
   image: images/banner-iha.jpg
 ---
-### OUR VISION FOR IMPACT HUB TAMAKI MAKAURAU 
+### OUR VISION FOR IMPACT HUB TAMAKI MAKAURAU
 
 We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovators who want to create positive systematic change for people and planet through regenerative, circular, social and cultural business models. 
 
