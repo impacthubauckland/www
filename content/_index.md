@@ -18,3 +18,31 @@ We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovat
 ![](images/programmes.png "Programmes")
 
 ![](images/support.png "Business Support")
+
+### COLLABORATION FOR SYSTEMIC CHANGE
+
+Impact requires significant, dedicated collaboration and collective action. The environmental and social challenges we face require fundamental systemic changes in the way we do business.  Auckland needs an ecosystem of change makers, social entrepreneurs, enablers, innovators, and intrapreneurs that will provoke this systemic change together. Lets co-create entrepreneurship that accelerates the transition to a greener and fairer planet.
+
+### OUR FOCUS
+
+![](images/climate.png "Climate")
+
+![](images/equity.png "Equity")
+
+***Join us today***
+
+### JOIN A GLOBAL NETWORK
+
+IMAGE + STATS
+
+### JOIN OUR TRIBE OF CHANGEMAKERS
+
+We welcome all those who share our drive for pioneering a just and sustainable world to join our growing community, and be part of the change with us. Whether your journey is just beginning, or you’re looking to amplify your impact, by becoming an Impact Hub Auckland member.
+
+***Become a member***
+
+IMAGE
+
+## Feedback from Impact Entrepreneurs
+
+QUOTE
