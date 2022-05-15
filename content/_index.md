@@ -8,7 +8,7 @@ banner-cta:
   align: left
   image: images/banner-iha.jpg
 ---
-### OUR VISION FOR IMPACT HUB TAMAKI MAKAURAU 
+### OUR VISION FOR IMPACT HUB TAMAKI MAKAURAU
 
 We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovators who want to create positive systematic change for people and planet through regenerative, circular, social and cultural business models. 
 
@@ -18,7 +18,7 @@ We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovat
 
 ### COLLABORATION FOR SYSTEMIC CHANGE
 
-Impact requires significant, dedicated collaboration and collective action. The environmental and social challenges we face require fundamental systemic changes in the way we do business.  Auckland needs an ecosystem of change makers, social entrepreneurs, enablers, innovators, and intrapreneurs that will provoke this systemic change together. Lets co-create entrepreneurship that accelerates the transition to a greener and fairer planet.
+Impact requires significant, dedicated collaboration and collective action. The environmental and social challenges we face require fundamental systemic changes in the way we do business.  Auckland needs an ecosystem of change makers, social entrepreneurs, enablers, innovators, and intrapreneurs that will provoke this systemic change together. Lets co-create entrepreneurship that accelerates the transition to a greener and just planet.
 
 ### OUR FOCUS
 
