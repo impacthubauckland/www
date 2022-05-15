@@ -33,8 +33,6 @@ Impact requires significant, dedicated collaboration and collective action. The 
 
 ### JOIN A GLOBAL NETWORK
 
-
-
 ![24250 entrepreneurs & innovators, 63 countries, 105 locations ](images/banner-ih-global-impact-.png)
 
 ### JOIN OUR TRIBE OF CHANGEMAKERS
