@@ -14,6 +14,9 @@ collections:
         label: "Home"
         name: home
         fields:
+          - label: "Order sequence"
+            name: priority
+            widget: "number"
           - label: "Banner Image + CTA Button"
             name: banner-cta
             widget: "object"
@@ -31,6 +34,9 @@ collections:
         label: "About us"
         name: about
         fields:
+          - label: "Order sequence"
+            name: priority
+            widget: "number"
           - label: "Title"
             name: "title"
             widget: string
@@ -41,6 +47,9 @@ collections:
         label: "Events"
         name: events
         fields:
+          - label: "Order sequence"
+            name: priority
+            widget: "number"
           - label: "Title"
             name: "title"
             widget: string
@@ -51,6 +60,9 @@ collections:
         label: "Contact us"
         name: contact
         fields:
+          - label: "Order sequence"
+            name: priority
+            widget: "number"
           - label: "Title"
             name: "title"
             widget: string
@@ -61,6 +73,22 @@ collections:
         label: "Support"
         name: support
         fields:
+          - label: "Order sequence"
+            name: priority
+            widget: "number"
+          - label: "Title"
+            name: "title"
+            widget: string
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
+      - file: "content/contact.md"
+        label: "Contact Us"
+        name: contact
+        fields:
+          - label: "Order sequence"
+            name: priority
+            widget: "number"
           - label: "Title"
             name: "title"
             widget: string
