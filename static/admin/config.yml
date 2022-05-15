@@ -22,6 +22,9 @@ collections:
                 { label: "Background Image", name: "image", widget: image },
                 { label: "Heading Alignment", name: "align", widget: "select", options: ["left", "center", "right"] }
               ]
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
       - file: "content/about.md"
         label: "About us"
         name: about
