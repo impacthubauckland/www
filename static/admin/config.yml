@@ -20,7 +20,7 @@ collections:
                 { label: "Heading Text", name: "heading", widget: string },
                 { label: "Button Text", name: "button", widget: string },
                 { label: "Background Image", name: "image", widget: image },
-                { label: "Heading Alignment", name: "align", widget: "select", options: ["left", "center", "right"] }
+                { label: "Heading Alignment", name: "align", widget: "select", options: ["left", "center", "right", "left-bottom", "right-bottom"] }
               ]
           - label: "Body"
             name: "body"
@@ -80,3 +80,18 @@ collections:
       - label: "Closing date"
         name: "date"
         widget: "datetime"
+  - name: "focus"
+    label: "Our Focus"
+    folder: "content/about/our-focus"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: string
+      - label: "Tile image"
+        name: "image"
+        widget: image
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
