@@ -25,9 +25,9 @@ Impact requires significant, dedicated collaboration and collective action. The 
 
 ### OUR FOCUS
 
-![Climate](images/climate.png "Climate")
+![Climate](images/4.png "Climate")
 
-![Equity](images/equity.png "Equity")
+![Equity](images/5.png "Equity")
 
 ***Join us today***
 
