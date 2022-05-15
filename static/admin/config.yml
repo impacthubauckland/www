@@ -67,14 +67,18 @@ collections:
   - name: "focus"
     label: "Focus"
     folder: "content/iha/focus"
+    path: "{{slug}}"
     create: true
     fields:
       - label: "Name"
-        name: "name"
+        name: "title"
         widget: string
       - label: "Body"
         name: "body"
         widget: "markdown"
+      - label: "LinkedIn Url"
+        name: "linkedin"
+        widget: "string"
       - label: "Image"
         name: "image"
         widget: "image"
