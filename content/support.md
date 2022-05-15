@@ -18,9 +18,8 @@ Our Business Health Check is a quick and easy way to take the temperature of you
 
 [Enquire now (DRAFT HSFORMS)](<>)
 
-#### Here are some examples of what we might identify that you need to work on:
+Developing an effective marketing campaign
 
-* Developing an effective marketing campaign
 * Improving net profit drivers
 * Building purpose into your business model
 * Identifying new business channels & markets
