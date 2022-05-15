@@ -37,7 +37,7 @@ collections:
         name: "date"
         widget: "datetime"
   - name: "people"
-    label: "Our people"
+    label: "People"
     folder: "content/about/people"
     create: true
     fields:
@@ -51,7 +51,7 @@ collections:
         name: "photo"
         widget: "image"
   - name: "offers"
-    label: "Our Offers"
+    label: "Offers"
     folder: "content/iha/offers"
     create: true
     fields:
@@ -65,7 +65,7 @@ collections:
         name: "image"
         widget: "image"
   - name: "focus"
-    label: "Our Focus"
+    label: "Focus"
     folder: "content/iha/focus"
     create: true
     fields:
