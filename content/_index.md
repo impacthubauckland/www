@@ -14,11 +14,11 @@ We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovat
 
 ### WHAT WE OFFER
 
-![Events & Networking](images/1.png "Events & Networking")
+![Events & Networking](/images/1.png "Events & Networking")
 
-![Programmes](images/2.png "Programmes")
+![Programmes](/images/2.png "Programmes")
 
-![Business Support](images/3.png "Business Support")
+![Business Support](/images/3.png "Business Support")
 
 ### COLLABORATION FOR SYSTEMIC CHANGE
 
@@ -26,9 +26,9 @@ Impact requires significant, dedicated collaboration and collective action. The 
 
 ### OUR FOCUS
 
-![Climate](images/4.png "Climate")
+![Climate](/images/4.png "Climate")
 
-![Equity](images/5.png "Equity")
+![Equity](/images/5.png "Equity")
 
 ***Join us today***
 
@@ -40,7 +40,7 @@ Impact requires significant, dedicated collaboration and collective action. The 
 
 We welcome all those who share our drive for pioneering a just and sustainable world to join our growing community, and be part of the change with us. Whether your journey is just beginning, or you’re looking to amplify your impact, by becoming an Impact Hub Auckland member.
 
-![Event with people](images/banner-bottom-page.jpg "Join our tribe of change makers")
+![Event with people](/images/banner-bottom-page.jpg "Join our tribe of change makers")
 
 ### BECOME A MEMBER OF IMPACT HUB AUCKLAND
 
