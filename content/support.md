@@ -1,6 +1,5 @@
 ---
 title: "Business Support"
-aliases: ["support", "business-support"]
 priority: 5
 ---
 

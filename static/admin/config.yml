@@ -9,64 +9,17 @@ collections:
     label: "Pages"
     folder: "content"
     create: true
-    files:
-      - file: "content/_index.md"
-        label: "Home"
-        name: home
-        fields:
-          - label: "Banner Image + CTA Button"
-            name: banner-cta
-            widget: "object"
-            fields:
-              [
-                { label: "Heading Text", name: "heading", widget: string },
-                { label: "Button Text", name: "button", widget: string },
-                { label: "Background Image", name: "image", widget: image },
-                { label: "Heading Alignment", name: "align", widget: "select", options: ["left", "center", "right", "left-bottom", "right-bottom"] }
-              ]
-          - label: "Body"
-            name: "body"
-            widget: "markdown"
-      - file: "content/about.md"
-        label: "About us"
-        name: about
-        fields:
-          - label: "Title"
-            name: "title"
-            widget: string
-          - label: "Body"
-            name: "body"
-            widget: "markdown"
-      - file: "content/events.md"
-        label: "Events"
-        name: events
-        fields:
-          - label: "Title"
-            name: "title"
-            widget: string
-          - label: "Body"
-            name: "body"
-            widget: "markdown"
-      - file: "content/contact.md"
-        label: "Contact us"
-        name: contact
-        fields:
-          - label: "Title"
-            name: "title"
-            widget: string
-          - label: "Body"
-            name: "body"
-            widget: "markdown"
-      - file: "content/support.md"
-        label: "Support"
-        name: support
-        fields:
-          - label: "Title"
-            name: "title"
-            widget: string
-          - label: "Body"
-            name: "body"
-            widget: "markdown"
+    path: "{{slug}}"
+    fields:
+      - label: "Order sequence"
+        name: "priority"
+        widget: number
+      - label: "Title"
+        name: "title"
+        widget: string
+      - label: "Body"
+        name: "body"
+        widget: markdown
   - name: "programmes"
     label: "Programmes"
     folder: "content/programmes"

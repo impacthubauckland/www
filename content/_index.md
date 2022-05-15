@@ -1,6 +1,6 @@
 ---
 title: "Home"
-priority: 2
+priority: 1
 banner-cta:
   button: Join our Change Makers
   heading: Enabling businesses to be a force for good with a focus on social &
