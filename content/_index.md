@@ -17,7 +17,7 @@ We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovat
 
 ![Programmes](images/2.png "Programmes")
 
-![Business Support](images/support.png "Business Support")
+![Business Support](images/3.png "Business Support")
 
 ### COLLABORATION FOR SYSTEMIC CHANGE
 
