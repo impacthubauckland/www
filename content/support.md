@@ -4,32 +4,33 @@ date: 2019-02-28
 aliases:
   - support
 ---
-
 ## We're here to help you grow your business
 
 Impact Hub Auckland offers a range of entrepreneurial support services ranging from personalised 1-2-1 support for your specific business needs, to programme cohorts at similar stages of business. You can connect to tailored support in one of the below ways. 
 
 ## 1-2-1 Support
 
+![](images/wise-cateringn.jpg)
+
 ## Business Health Check
 
 Our Business Health Check is a quick and easy way to take the temperature of your business and identify areas for improvement. You’ll be asked to fill in a short survey, and then you'll be connected with one of our Impact Associates. Our Business Health Check sessions take 2 hours and can be held via Zoom or in person.
 
-[Enquire now (DRAFT HSFORMS)]()
+[Enquire now (DRAFT HSFORMS)](<>)
 
 #### Here are some examples of what we might identify that you need to work on:
 
-- Developing an effective marketing campaign
-- Improving net profit drivers
-- Building purpose into your business model
-- Identifying new business channels & markets
-- Improving your digital marketing strategy
-- Developing an ecommerce strategy
-- Setting up financial systems that work for your business
-- Developing a consistent brand strategy
-- Discovering new business markets & reaching new customers
+* Developing an effective marketing campaign
+* Improving net profit drivers
+* Building purpose into your business model
+* Identifying new business channels & markets
+* Improving your digital marketing strategy
+* Developing an ecommerce strategy
+* Setting up financial systems that work for your business
+* Developing a consistent brand strategy
+* Discovering new business markets & reaching new customers
 
-[Enquire now (DRAFT HSFORMS)]()
+[Enquire now (DRAFT HSFORMS)](<>)
 
 ## Connect with an Associate
 
@@ -37,18 +38,18 @@ Our team of Associates is made up of experienced and talented entrepreneurial th
 
 #### Through Impact Hub’s Associate model you can get help in the following areas of business.
 
-- Brand Management 
-- Commercial/Venture Building Support
-- Legal Support
-- Business Validation
-- Marketing Support
-- Team Coaching
-- Mindset Coaching
-- Financial Planning
-- Impact Management Support
-- Business Support
+* Brand Management 
+* Commercial/Venture Building Support
+* Legal Support
+* Business Validation
+* Marketing Support
+* Team Coaching
+* Mindset Coaching
+* Financial Planning
+* Impact Management Support
+* Business Support
 
-[Enquire now (DRAFT HSFORMS)]()
+[Enquire now (DRAFT HSFORMS)](<>)
 
 #### Want to become an Associate? Get in touch with our team and we can send you more information.
 
@@ -58,8 +59,7 @@ Our team of Associates is made up of experienced and talented entrepreneurial th
 
 Once a month, Impact Hub Auckland members can participate in our Workbench sessions, where experts in a variety of fields (legal, finance, funding, impact measurement) will support you with more complex questions so you can immediately take next steps to grow your business fast and efficiently.
 
-Workbenches are held in our ____ and ____ spaces on a different topic each month and are available for all members.
-
+Workbenches are held in our _**_ and __** spaces on a different topic each month and are available for all members.
 
 ### Workshops
 
@@ -71,13 +71,13 @@ Workshops are free for [Connect Members](/join-us/).
 
 In our Workshops we've covered everything from SEO to Storytelling - here are some past workshop examples:
 
-- Instagram Marketing - tips & tricks
-- Sales mindset - how your for purpose business should approach sales
-- Storytelling - how the art of storytelling can help you reach your audience
-- SEO - what makes a great website
-- Brand Strategy - building an impactful brand
-- Growth Hacking - growth for impact entrepreneurs
-- The F Word - yes we're talking Finances
+* Instagram Marketing - tips & tricks
+* Sales mindset - how your for purpose business should approach sales
+* Storytelling - how the art of storytelling can help you reach your audience
+* SEO - what makes a great website
+* Brand Strategy - building an impactful brand
+* Growth Hacking - growth for impact entrepreneurs
+* The F Word - yes we're talking Finances
 
 [Join us today](/join-us/)
 
