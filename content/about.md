@@ -1,4 +1,5 @@
 ---
+priority: 2
 title: ABOUT US
 ---
 Our story dates back to 2012, when a collaborative project led by Auckland Council, gathered together a group of practitioners, training providers and academics to consider on how to best support the development of social enterprise in Tāmaki Makaurau. 
@@ -12,7 +13,7 @@ Fast forward to 2020, when the board of SEA, who included Paul Kerssans from Imp
 * capital
 * markets
 
-![Discuss at event/ hui](images/banner-2-iha.jpg)
+![Discussion at event/hui](images/banner-2-iha.jpg)
 
 The small and mighty IHA team is a driving force behind this new impact eco-system venture. We have collaborated with our sister team at Impact Hub Waikato (IHW) who have spent countless hours developing systems, designing solutions, and stewarding relationships to serve a growing network of stakeholders. Each entrepreneurial team member brings unique skills from their own impact business to share with the change makers of Tāmaki Makaurau.
 
