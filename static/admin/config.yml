@@ -7,6 +7,8 @@ public_folder: "images"
 collections:
   - name: "pages"
     label: "Pages"
+    folder: "content"
+    create: true
     files:
       - file: "content/_index.md"
         label: "Home"
@@ -80,18 +82,3 @@ collections:
       - label: "Closing date"
         name: "date"
         widget: "datetime"
-  - name: "focus"
-    label: "Our Focus"
-    folder: "content/about/our-focus"
-    path: "{{slug}}/index"
-    create: true
-    fields:
-      - label: "Title"
-        name: "title"
-        widget: string
-      - label: "Tile image"
-        name: "image"
-        widget: image
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
