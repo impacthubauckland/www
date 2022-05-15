@@ -5,8 +5,29 @@ Our story dates back to 2012, when a collaborative project led by Auckland Counc
 
 In 2015, Social Enterprise Auckland (SEA) was established as a member based organisation (an Incorporated Society) in order to develop a vehicle for social enterprises and their supporters to lead this effort and create an environment in which social enterprise is just a normal way of doing business.
 
-Fast forward to 2020, when the board of SEA, who included Paul Kerssans from Impact Hub Waikato, decided to investigate the possibility of joining the global Impact Hub movement.   During 2021, a series of hui (meetings) were ran across the city with entrepreneurs, intrapreneurs, local government and charities to investigate the appetite for Impact Hub Auckland.  
+Fast forward to 2020, when the board of SEA, who included Paul Kerssans from Impact Hub Waikato, decided to investigate the possibility of joining the global Impact Hub movement.   During 2021, a series of hui (meetings) were ran across the city with entrepreneurs, intrapreneurs, local government and charities to investigate the appetite for Impact Hub Auckland.  Positive feedback was received with a desire for access to 
 
-![]()
+* knowledge & expertise
+* networks
+* capital
+* markets
+
+![Discuss at event/ hui](images/banner-2-iha.jpg)
 
 The small and mighty IHA team is a driving force behind this new impact eco-system venture. We have collaborated with our sister team at Impact Hub Waikato (IHW) who have spent countless hours developing systems, designing solutions, and stewarding relationships to serve a growing network of stakeholders. Each entrepreneurial team member brings unique skills from their own impact business to share with the change makers of Tāmaki Makaurau.
+
+
+
+![Tom Va’afusuaga]( "Tom Va’afusuaga")
+
+
+
+Tom Va’afusuaga is co-founder of Impact Hub Auckland and has extensive business incubation experience enabling Maori & Pasifika entrepreneurs. Having co-started a social enterprise focused on enabling Maori tribes, Tom understands the mindset needed to take an idea to a thriving impact driven business. Being an accountant he also works alongside kiwi and Pacific Island businesses and NGOs to ensure they are financially viable and are fulfilling their accounting and compliance activities
+
+![](images/ger-1.jpg)
+
+
+
+![Stefan Rüegg](images/stefan-photo.jpg "Stefan Rüegg")
+
+Stefan Rüegg is a highly versatile strategist, networker and change agent whose work focuses on catalysing positive social and environmental impact in business. He combines more than fifteen years of sustainability experience as a business consultant and corporate sustainability analyst. Originally he qualified as an environmental scientist from Switzerland’s leading scientific university.
