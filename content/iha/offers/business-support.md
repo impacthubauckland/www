@@ -1,5 +1,6 @@
 ---
-title: "Business Support"
+title: Business Support
+name: Business Support
 image: /images/3.png
 ---
 Business Support
