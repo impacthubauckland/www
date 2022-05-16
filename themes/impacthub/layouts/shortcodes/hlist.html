@@ -1,0 +1,10 @@
+{{ $coll := .Get "collection" }}
+{{ $height := .Get "height" }}
+{{ $headless := .Site.GetPage (print "/iha/" $coll)}}
+{{ $reusablePages := $headless.Pages }}
+
+<div class="grid grid-cols-4 place-items-stretch max-{{$height}}-px">
+  {{ range $reusablePages }}
+  <div><img src="{{.Params.image }}"></a></div>
+  {{ end }}
+</div>
