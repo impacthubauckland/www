@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: Home
-banner-cta:
+bannercta:
   button: Join our Change Makers
   heading: Enabling businesses to be a force for good with a focus on social &
     climate justice

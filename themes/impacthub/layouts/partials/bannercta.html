@@ -1,0 +1,18 @@
+{{ with .Params.bannercta }}
+<div class="bg-local bg-auto bg-no-repeat bg-center h-96 py-3" style="background-image: url({{ .image }})">
+  <div class="flex h-full w-full hover:bg-core-secondary hover:bg-opacity-25">
+    <div class="m-auto invisible sm:visible">
+      <div class="flex flex-col pt-6 space-y-4 md:p-8 ">
+        <div class="grow h-24">
+        </div>
+        <div class="grow ">
+        </div>
+        <div class="">
+          <button class="bg-orange-400 py-3 px-8 mt-4 rounded text-lg font-semibold hover:bg-opacity-75 float-right">{{ .button }}</button>
+        </div>
+        <p class="flex-auto text-5xl space-y-4 float-left bg-slate-200/25 text-white">{{ .heading }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
