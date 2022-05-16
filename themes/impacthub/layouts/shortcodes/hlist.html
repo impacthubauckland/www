@@ -5,9 +5,10 @@
 
 <div class="flex place-content-evenly">
   {{ range $reusablePages }}
+  {{ $page := . }}
   {{ $image := resources.GetMatch .Params.image }}
   {{ with $image.Resize (printf "%dx%d webp icon" $height $height) }}
-  <div class="flex-none"><img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" style="height: {{ .Height }}px;"></div>
+  <div class="flex-none"><img alt="{{ $page.Title }}" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" style="height: {{ .Height }}px;"></div>
   {{ end }}
   {{ end }}
 </div>

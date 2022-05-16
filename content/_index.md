@@ -5,6 +5,7 @@ bannercta:
   button: JOIN OUR CHANGE MAKERS
   heading: Enabling businesses to be a force for good with a focus on social &
     climate justice
+  height: 350
   align: left
   image: images/banner-iha.jpg
 ---
