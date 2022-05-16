@@ -9,7 +9,7 @@ bannercta:
   align: left
   image: images/banner-iha.jpg
 ---
-### OUR VISION FOR IMPACT HUB TAMAKI MAKAURAU
+### OUR VISION FOR IMPACT HUB TĀMAKI MAKAURAU
 
 We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovators who want to create positive systematic change for people and planet through regenerative, circular, social and cultural business models. 
 
