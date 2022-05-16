@@ -1,0 +1,10 @@
+{{ $coll := .Get "collection" }}
+{{ $height := .Get "height" }}
+{{ $headless := .Site.GetPage (print "/iha/" $coll)}}
+{{ $reusablePages := $headless.Pages }}
+
+<div class="flex place-content-evenly">
+  {{ range $reusablePages }}
+  <div class="flex-none"><img src="{{.Params.image }}" style="height: {{$height}}px;"></div>
+  {{ end }}
+</div>
