@@ -1163,6 +1163,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 100%;
 }
 
+.h-24 {
+  height: 6rem;
+}
+
 .h-8 {
   height: 2rem;
 }
@@ -1171,28 +1175,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: auto;
 }
 
-.h-14 {
-  height: 3.5rem;
-}
-
-.h-48 {
-  height: 12rem;
-}
-
-.h-24 {
-  height: 6rem;
-}
-
 .min-h-screen {
   min-height: 100vh;
 }
 
 .w-full {
   width: 100%;
-}
-
-.w-14 {
-  width: 3.5rem;
 }
 
 .max-w-screen-xl {
@@ -1211,12 +1199,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   max-width: 100%;
 }
 
-.flex-none {
-  flex: none;
-}
-
 .flex-auto {
   flex: 1 1 auto;
+}
+
+.flex-none {
+  flex: none;
 }
 
 .flex-grow {
@@ -1225,10 +1213,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .grow {
   flex-grow: 1;
-}
-
-.grow-0 {
-  flex-grow: 0;
 }
 
 .transform {
@@ -1304,10 +1288,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   place-content: space-evenly;
 }
 
-.place-items-end {
-  place-items: end;
-}
-
 .content-center {
   align-content: center;
 }
@@ -1342,12 +1322,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-space-y-reverse: 0;
   margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(1rem * var(--tw-space-y-reverse));
-}
-
-.space-y-2 > :not([hidden]) ~ :not([hidden]) {
-  --tw-space-y-reverse: 0;
-  margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));
-  margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));
 }
 
 .self-baseline {
@@ -1475,25 +1449,41 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(251 146 60 / var(--tw-bg-opacity));
 }
 
+.bg-slate-200\/25 {
+  background-color: rgb(226 232 240 / 0.25);
+}
+
 .bg-blue-600 {
   --tw-bg-opacity: 1;
   background-color: rgb(37 99 235 / var(--tw-bg-opacity));
 }
 
-.bg-slate-200\/25 {
-  background-color: rgb(226 232 240 / 0.25);
+.bg-slate-200\/50 {
+  background-color: rgb(226 232 240 / 0.5);
 }
 
-.bg-slate-800\/25 {
-  background-color: rgb(30 41 59 / 0.25);
+.bg-slate-700\/50 {
+  background-color: rgb(51 65 85 / 0.5);
+}
+
+.bg-slate-700\/40 {
+  background-color: rgb(51 65 85 / 0.4);
+}
+
+.bg-slate-800\/40 {
+  background-color: rgb(30 41 59 / 0.4);
+}
+
+.bg-slate-900\/40 {
+  background-color: rgb(15 23 42 / 0.4);
+}
+
+.bg-slate-600\/40 {
+  background-color: rgb(71 85 105 / 0.4);
 }
 
 .bg-none {
   background-image: none;
-}
-
-.to-white {
-  --tw-gradient-to: #fff;
 }
 
 .decoration-slice {

@@ -2,7 +2,7 @@
 weight: 1
 title: Home
 bannercta:
-  button: Join our Change Makers
+  button: JOIN OUR CHANGE MAKERS
   heading: Enabling businesses to be a force for good with a focus on social &
     climate justice
   align: left
@@ -24,7 +24,7 @@ Impact requires significant, dedicated collaboration and collective action. The 
 
 {{< hlist collection="focus" height=280 >}}
 
-***Join us today***
+{{< ctabutton text="JOIN US TODAY" link="/about" >}}
 
 ### JOIN A GLOBAL NETWORK
 
