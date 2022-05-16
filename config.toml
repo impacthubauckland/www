@@ -34,3 +34,8 @@ tagsLimit = 20
 # Dark mode by default : dark
 # Light mode by default : light
 darkmode = "light"
+
+[module]
+[[module.mounts]]
+  source = 'static'
+  target = 'assets'
