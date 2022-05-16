@@ -14,6 +14,8 @@
     <link rel="shortcut icon" href='{{ "/favicon/favicon.ico" | relURL }}' />
     <meta name="theme-color" content="#ffffff">
     <meta property="og:title" content="{{site.Title}}{{if not .IsHome}} | {{.Title}}{{end}}" />
+    <link rel="preload" href="/fonts/GT-Walsheim-Regular.ttf" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/material-icons.ttf?xdbxjz" as="font" type="font/ttf" crossorigin>
     {{ $styles := resources.Get "css/style.css" | postCSS }}
     {{ if .Site.IsServer }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" />
@@ -29,3 +31,4 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <i class="dark hidden"></i>
 </head>
+https://impacthubauckland.nz
