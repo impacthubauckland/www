@@ -21,6 +21,17 @@ collections:
       - label: "Body"
         name: "body"
         widget: markdown
+      - label: "Banner Image + CTA Button"
+        name: banner-cta
+        widget: "object"
+        fields:
+          [
+            { label: "Heading Text", name: "heading", widget: string },
+            { label: "Button Text", name: "button", widget: string },
+            { label: "Background Image", name: "image", widget: image },
+            { label: Height, name: height, widget: number },
+            { label: "Heading Alignment", name: "align", widget: "select", options: ["left", "center", "right", "left-bottom", "right-bottom"] }
+          ]
   - name: "programmes"
     label: "Programmes"
     folder: "content/programmes"
