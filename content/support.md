@@ -11,7 +11,7 @@ Impact Hub Auckland offers a range of entrepreneurial support services ranging f
 
 ## 1-2-1 Support
 
-![](images/wise-cateringn.jpg)
+![Mentor meeting ](mentor-meeting-2.jpg)
 
 ## Business Health Check
 
@@ -59,7 +59,7 @@ Our team of Associates is made up of experienced and talented entrepreneurial th
 
 Once a month, Impact Hub Auckland members can participate in our Workbench sessions, where experts in a variety of fields (legal, finance, funding, impact measurement) will support you with more complex questions so you can immediately take next steps to grow your business fast and efficiently.
 
-Workbenches are held in our _**_ and __** spaces on a different topic each month and are available for all members.
+Workbenches are held in our *\*\** and __\*\* spaces on a different topic each month and are available for all members.
 
 ### Workshops
 
