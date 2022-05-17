@@ -32,11 +32,11 @@ Developing an effective marketing campaign
 
 [Enquire now (DRAFT HSFORMS)](<>)
 
-## Connect with an Associate
+## Connect with a Mentor
 
 Our team of Associates is made up of experienced and talented entrepreneurial thinkers, experts and coaches who truly care about social, cultural and environmental impact. We want your experience to be seamless. When you apply for our services online, we connect you with the right expert and brief them on your requirements.
 
-#### Through Impact Hub’s Associate model you can get help in the following areas of business.
+#### Through Impact Hub’s Mentor model you can get help in the following areas of business.
 
 * Brand Management 
 * Commercial/Venture Building Support
@@ -51,7 +51,7 @@ Our team of Associates is made up of experienced and talented entrepreneurial th
 
 [Enquire now (DRAFT HSFORMS)](<>)
 
-#### Want to become an Associate? Get in touch with our team and we can send you more information.
+#### Want to become a Mentor? Get in touch with our team and we can send you more information.
 
 ## Group Learning
 
@@ -59,7 +59,7 @@ Our team of Associates is made up of experienced and talented entrepreneurial th
 
 Once a month, Impact Hub Auckland members can participate in our Workbench sessions, where experts in a variety of fields (legal, finance, funding, impact measurement) will support you with more complex questions so you can immediately take next steps to grow your business fast and efficiently.
 
-Workbenches are held in our *\*\** and __\*\* spaces on a different topic each month and are available for all members.
+Workbenches will be held at various community venues throughout Auckland or online and will cover on a different topic each month and will be available for all subscribed members.
 
 ### Workshops
 
@@ -82,9 +82,3 @@ In our Workshops we've covered everything from SEO to Storytelling - here are so
 [Join us today](/join-us/)
 
 ### Programmes
-
-#### In 2020, more than 5000 participants joined over 200 business programmes in Impact Hubs across the globe.
-
-From sustainable food to circular fashion to healthcare, Impact Hub ran programmes focused on getting started, accelerators on scaling internationally, training sessions on leadership skills for entrepreneurs – and pilot programmes with corporate partners. Amongst programme participants, 45% of venture success is attributed to Impact Hub!
-
-[Learn More](/programmes/)
