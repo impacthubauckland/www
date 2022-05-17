@@ -4,7 +4,7 @@
 <iframe id="iframe-container" src="https://humanitix.com/au/search?w=true&userid={{ $userid }}" width="100%" height="{{ $height }}px" frameborder="0"></iframe>
 <script>
     window.addEventListener('message', function (e) {
-        if (e.origin !== https://events.humanitix.com) {
+        if (e.origin !== "https://events.humanitix.com") {
             return;
         }
         var messageData = e.data;
