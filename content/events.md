@@ -1,6 +1,7 @@
 ---
 aliases:
   - events
+weight: 4
 title: Events & Networking
 ---
 At Impact Hub Auckland, we offer unique and curated events 
@@ -15,8 +16,6 @@ Whether you are a impact entrepreneur, creation, innovation, intrapreneur or jus
 * Equitable business models
 * Inclusive entrepreneurship
 
-**UPCOMING HUI/EVENTS IN TAMAKI MAKAURAU**
-
-
+### **UPCOMING HUI/EVENTS IN** TĀMAKI MAKAURAU
 
 ![Upcoming Events ](images/banner-ih-upcoming-events-.png "Upcoming Events")
