@@ -82,3 +82,18 @@ collections:
       - label: "Image"
         name: "image"
         widget: "image"
+  - name: "GlobalStats"
+    label: "stats"
+    folder: "content/iha/global-stats"
+    path: "{{slug}}"
+    create: true
+    fields:
+      - label: "Name"
+        name: "title"
+        widget: string
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Image"
+        name: "image"
+        widget: "image"
