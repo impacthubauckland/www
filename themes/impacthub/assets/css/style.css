@@ -1444,9 +1444,9 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
 }
 
-.bg-orange-600 {
+.bg-\[\#812926\] {
   --tw-bg-opacity: 1;
-  background-color: rgb(234 88 12 / var(--tw-bg-opacity));
+  background-color: rgb(129 41 38 / var(--tw-bg-opacity));
 }
 
 .bg-slate-600\/40 {
@@ -1456,21 +1456,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .bg-blue-600 {
   --tw-bg-opacity: 1;
   background-color: rgb(37 99 235 / var(--tw-bg-opacity));
-}
-
-.bg-orange-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(251 146 60 / var(--tw-bg-opacity));
-}
-
-.bg-orange-500 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(249 115 22 / var(--tw-bg-opacity));
-}
-
-.bg-\[\#812926\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(129 41 38 / var(--tw-bg-opacity));
 }
 
 .bg-none {
@@ -1867,6 +1852,15 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .navflexgrow {
   vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
 }
 
 .hover\:-translate-y-1:hover {
