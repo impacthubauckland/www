@@ -7,7 +7,7 @@ date: 2022-06-17T05:00:01.424Z
 ---
 An 10 week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, Poipoia te Kākano (PtK) is here to up-skill, inspire and connect a new wave of change-makers.  Impact Hub’s intention is to offer inspiration, support and connection to a new wave of change-makers.
 
-{{< ctabutton text="APPLY NOW" link="/about" >}}
+[{{< ctabutton text="APPLY NOW" link="/about" >}}](https://forms.gle/Jr9ohXMKVyTogHke7)
 
 The programme will focus on business ideation, business optimisation and entrepreneurial mindset through capacity building workshops, mentoring and coaching, networking opportunities in the innovative Kiwi startup scene and connection to either jobs or capital.
 
@@ -32,7 +32,7 @@ Applications for June 2022 cohorts are now open. Free for Auckland residents of 
 * are already in business but are winging it / don’t have a clear vision
 * want to be connected to the vibrant Kiwi start-up scene.
 
-  {{< ctabutton text="EOI FOR A SPACE" link="/about" >}}
+  [{{< ctabutton text="EOI FOR A SPACE" link="/about" >}}](https://forms.gle/Jr9ohXMKVyTogHke7)
 
 Candidates of all ages and backgrounds are welcome to apply. You do not have to have a clear idea, nor do you have to have previous experience in business or entrepreneurship to enter the programme. The only entry criteria is a healthy dose of motivation and drive!
 
@@ -46,8 +46,6 @@ By the end of the programme, you can expect to be equipped with the tools and en
 The programme will be delivered over 10 weeks with sessions ranging from 2-3 hours. Participants can expect to invest an additional 3-5 hours per week in the programme, which includes 1-2-1 coaching calls and self-study.
 
 We end with a pitch and networking event, where participants will have the opportunity to pitch their business idea and network with entrepreneurs, start-ups, investors, funders and more. Participants are expected to attend 80% of the programme to be eligible to pitch.
-
-
 
 ### What topics will be covered?
 
