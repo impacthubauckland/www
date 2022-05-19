@@ -77,3 +77,4 @@ Alongside group activities like the high quality capacity building workshops, yo
 Applications for the Poipoia te kākano programme for 2022 are now open until 20 June 2022.
 
 Successful participants will receive a free 6-month membership to Impact Hub Auckland and benefit from discounts to workshops, events, programmes.
+
