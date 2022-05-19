@@ -4,9 +4,7 @@ title: Contact
 ---
 Impact Hub Auckland
 
-{{< ctabutton text="BECOME A MEMBER" link="/about" >}} 
-
-
+[{{< ctabutton text="BECOME A MEMBER" link="/about" >}} ](https://forms.gle/KthkVEtUQUUpW2bM7)
 
 ### Contact our team
 
