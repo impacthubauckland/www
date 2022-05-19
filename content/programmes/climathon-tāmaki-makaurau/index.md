@@ -1,12 +1,10 @@
 ---
 weight: 2
 title: "Climathon - Tāmaki Makaurau "
-date: 2022-05-17T06:31:57.286Z
 ---
 Climathon is an international movement, orchestrated by[ EIT Climate-KIC](https://www.climate-kic.org/), to engage cities and citizens in climate action! It lays the foundations for tangible projects, impact-driven start-ups and long-lasting conversations with decision-makers around city plans and policies. 
 
 At the heart of our community are the Climathon local organisers who power the movement around the world. Policymakers, entrepreneurs, youth, business leaders, hackers, academics, students and professionals are invited to participate in this journey of co-creation, idea generation, and citizen engagement.
-
 
 
 ![Planetary Boundaries ](doughnut2.jpg)

@@ -1,6 +1,5 @@
 ---
 title: Open Challenge Accelerator
-date: 2022-05-15T02:02:11.986Z
 ---
 <!--StartFragment-->
 
