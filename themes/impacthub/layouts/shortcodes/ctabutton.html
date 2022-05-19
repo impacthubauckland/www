@@ -1,11 +1,5 @@
 {{ $text := .Get "text" }}
 {{ $link := .Get "link" }}
-<div class="flex pt-6 space-y-4 md:p-8 ">
-  <div class="grow">
-  </div>
-  <div class="">
-    <a href="{{$link}}"><button class="font-bold bg-[#812926] py-3 px-8 mt-4 rounded text-xl hover:bg-opacity-75 text-[#ffffff]">{{ $text }}</button></a>
-  </div>
-  <div class="grow">
-  </div>
+<div class="grid grid-cols-16 place-content-center">
+  <div><a href="{{$link}}"><button class="font-bold bg-[#812926] py-3 px-8 mt-4 rounded text-xl hover:bg-opacity-75 text-[#ffffff]">{{ $text }}</button></a></div>
 </div>
