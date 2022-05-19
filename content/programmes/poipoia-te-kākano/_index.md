@@ -8,7 +8,7 @@ date: 2022-06-17T05:00:01.424Z
 ---
 An 10 week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, Poipoia te Kākano (PtK) is here to up-skill, inspire and connect a new wave of change-makers.  Impact Hub’s intention is to offer inspiration, support and connection to a new wave of change-makers.
 
-[{{< ctabutton text="APPLY NOW" link="/about" >}}](https://forms.gle/Jr9ohXMKVyTogHke7)
+{{< ctabutton text="APPLY NOW" link="https://forms.gle/Jr9ohXMKVyTogHke7" >}}
 
 The programme will focus on business ideation, business optimisation and entrepreneurial mindset through capacity building workshops, mentoring and coaching, networking opportunities in the innovative Kiwi startup scene and connection to either jobs or capital.
 
@@ -35,7 +35,7 @@ Applications for June 2022 cohorts are now open. Free for Auckland residents of 
 * are already in business but are winging it / don’t have a clear vision
 * want to be connected to the vibrant Kiwi start-up scene.
 
-  [{{< ctabutton text="EOI FOR A SPACE" link="/about" >}}](https://forms.gle/Jr9ohXMKVyTogHke7)
+{{< ctabutton text="EOI FOR A SPACE" link="https://forms.gle/Jr9ohXMKVyTogHke7" >}}
 
 Candidates of all ages and backgrounds are welcome to apply. You do not have to have a clear idea, nor do you have to have previous experience in business or entrepreneurship to enter the programme. The only entry criteria is a healthy dose of motivation and drive!
 
