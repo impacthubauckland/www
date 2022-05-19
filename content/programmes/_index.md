@@ -1,12 +1,15 @@
 ---
-title: "Programmes"
+title: Programmes
 weight: 3
+date: 2022-05-19T20:08:24.734Z
 ---
+## Poipoia te Kākano 
 
-In 2021, 38 participants and impact businesses successfully completed the Back to Purpose programme. At the end, we asked them all to rate the programme out of 100. Here's what they told us:
+Poipoia te Kākano is an 10-week Entrepreneurship Programme for New Impact-Driven Entrepreneurs in New Zealand. In partnership with 
 
-- Overall programme = 94/100  Check for B2P Auckland 
-- Business coaching = 98/100
-- Mindset coaching = 95/100
-- Business coaching = 94/100
-- Business validation support = 92/100
+* are interested in creating and testing a new business idea;
+* are already in business but are winging it / don’t have a clear vision;
+* want to be connected to the vibrant Kiwi start-up scene.
+* do you live in Roskill
+
+**Applications are now open and close 20 June 2022**
