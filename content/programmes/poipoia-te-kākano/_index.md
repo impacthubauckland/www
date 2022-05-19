@@ -3,6 +3,7 @@ title: Poipoia te kākano (Nuture the seed) - Start-up Programme - June 2022
 aliases:
   - nuture-the-seed
   - poipoia-te-kākano
+weight: 1
 date: 2022-06-17T05:00:01.424Z
 ---
 An 10 week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, Poipoia te Kākano (PtK) is here to up-skill, inspire and connect a new wave of change-makers.  Impact Hub’s intention is to offer inspiration, support and connection to a new wave of change-makers.
