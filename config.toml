@@ -16,7 +16,8 @@ enableRobotsTXT = true
 [params]
 # Base color of the website.
 # https://tailwindcss.com/docs/background-color
-base_color = "bg-white-800"
+base_color = "white"
+logoUrl = "/images/logo-red-iha-auckland.jpeg"
 
 #Site description
 location = "Auckland"

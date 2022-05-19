@@ -1,4 +1,5 @@
 site_url: https://impacthubauckland.nz
+logo_url: https://impacthubauckland.nz/images/logo-red-iha-auckland.jpeg
 backend:
   name: git-gateway
   branch: main
