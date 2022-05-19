@@ -27,6 +27,9 @@ collections:
     path: "{{slug}}/index"
     create: true
     fields:
+      - label: "Order sequence"
+        name: "weight"
+        widget: number
       - label: "Title"
         name: "title"
         widget: string
@@ -70,21 +73,6 @@ collections:
   - name: "focus"
     label: "Focus"
     folder: "content/iha/focus"
-    path: "{{slug}}"
-    create: true
-    fields:
-      - label: "Name"
-        name: "title"
-        widget: string
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
-      - label: "Image"
-        name: "image"
-        widget: "image"
-  - name: "GlobalStats"
-    label: "stats"
-    folder: "content/iha/global-stats"
     path: "{{slug}}"
     create: true
     fields:
