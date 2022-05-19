@@ -13,6 +13,8 @@ The programme will focus on business ideation, business optimisation and entrepr
 
 This programme is in partnership by Kāinga Ora.  In the development of new neighbourhoods, we see many opportunities for supporting community economic development space. Enabling and supporting the locally led businesses to succeed in our new urban areas is a new approach for Kāinga Ora.  Supporting local economic development aligns purposefully with a mandate to support thriving communities in our Large Scale Development neighbourhoods’ particularly in those where commercial space is planned as part of the new urban design masterplan.  
 
+![Poipoia Te Kakano](banner-ptk.jpg)
+
 The end goal of the programme is two-fold. One, to equip aspiring young entrepreneurs with the tools and mindset required to start a business and two, to connect them to our network of inspiring impact enterprises, where they have the opportunity to volunteer or become a part of the (founding) team.
 
 Applications for June 2022 cohorts are now open. Free for Auckland residents of - Oranga Roskill South, Waikōwhai, Ōwairaka and Wesley.
