@@ -1,4 +1,5 @@
 ---
+weight: 2
 title: "Climathon - Tāmaki Makaurau "
 date: 2022-05-17T06:31:57.286Z
 ---
