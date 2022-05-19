@@ -25,7 +25,7 @@ Impact requires significant, dedicated collaboration and collective action. The 
 
 {{< hlist collection="focus" height=280 >}}
 
-{{< ctabutton text="JOIN US TODAY" link="/about" >}}
+[{{< ctabutton text="JOIN US TODAY" link="/about" >}}](https://forms.gle/KthkVEtUQUUpW2bM7)
 
 ### JOIN A GLOBAL NETWORK
 
@@ -39,4 +39,4 @@ We welcome all those who share our drive for pioneering a just and sustainable w
 
 ### JOIN IMPACT HUB AUCKLAND
 
-{{< ctabutton text="BECOME A MEMBER" link="/about" >}}
+[{{< ctabutton text="BECOME A MEMBER" link="/about" >}}](https://forms.gle/KthkVEtUQUUpW2bM7)
