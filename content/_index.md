@@ -38,9 +38,3 @@ We welcome all those who share our drive for pioneering a just and sustainable w
 ![Event with people](images/banner-bottom-page.jpg "Join our tribe of change makers")
 
 ### BECOME A MEMBER OF IMPACT HUB AUCKLAND
-
-IMAGE
-
-### FEEDBACK FROM IMPACT ENTREPRENEURS
-
-QUOTE
