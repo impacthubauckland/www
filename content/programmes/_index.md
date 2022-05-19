@@ -3,6 +3,8 @@ title: Programmes
 weight: 3
 date: 2022-05-19T20:08:24.734Z
 ---
+### Poipoia te Kākano
+
 An 10 week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, Poipoia te Kākano (PtK) is here to up-skill, inspire and connect a new wave of change-makers.  Impact Hub’s intention is to offer inspiration, support and connection to a new wave of change-makers.
 
 [{{< ctabutton text="APPLY NOW" link="/about" >}}](https://forms.gle/Jr9ohXMKVyTogHke7)
@@ -61,7 +63,7 @@ We will cover a range of topics relevant to creating and testing a business idea
 
 These topics will be delivered by experts in the field. Developing an entrepreneurial mindset and knowing yourself is also key to everyone’s entrepreneurial journey. For that reason, we will also include discussions on what it means to have an Entrepreneurial Mindset and some key differences between being an entrepreneur vs an employee.
 
-### What makes Poipoia te kākano special?
+### What makes Poipoia te Kākano special?
 
 At Poipoia te kākano, we do not host workshops where you sit down, listen and leave. We focus on action! Our expert-led workshops are designed to be interactive and practical, so that you have something to work on after every session. You will have key deliverables to work towards and you will pitch your business idea to an audience at the end of the programme.
 
