@@ -1,6 +1,4 @@
 ---
-aliases:
-  - events
 weight: 4
 title: Events & Networking
 ---
@@ -16,8 +14,8 @@ Whether you are a impact entrepreneur, creation, innovation, intrapreneur or jus
 * Equitable business models
 * Inclusive entrepreneurship
 
-### **UPCOMING HUI/EVENTS IN** TĀMAKI MAKAURAU
-
-
+### UPCOMING HUI/EVENTS IN TĀMAKI MAKAURAU
 
 ![Upcoming Events ](banner-events-.jpg "Upcoming Events")
+
+{{< humanitix userid="grU4s1jfyhQe0anzJjRbVXPlKF92" height=600 >}}
