@@ -17,7 +17,7 @@ Impact Hub Auckland offers a range of entrepreneurial support services ranging f
 
 Our Business Health Check is a quick and easy way to take the temperature of your business and identify areas for improvement. You’ll be asked to fill in a short survey, and then you'll be connected with one of our Impact Associates. Our Business Health Check sessions take 2 hours and can be held via Zoom or in person.
 
-[Enquire now (DRAFT HSFORMS)](<>)
+
 
 Developing an effective marketing campaign
 
