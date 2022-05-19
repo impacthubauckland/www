@@ -18,6 +18,6 @@ Whether you are a impact entrepreneur, creation, innovation, intrapreneur or jus
 
 ### **UPCOMING HUI/EVENTS IN** TĀMAKI MAKAURAU
 
-
-
 ![Upcoming Events ](banner-events-.jpg "Upcoming Events")
+
+{{< humanitix userid="grU4s1jfyhQe0anzJjRbVXPlKF92" height=600 >}}
