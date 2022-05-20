@@ -33,7 +33,7 @@
       },
       toBlock: ({link}) =>
           `{{< ctabutton text="${text}" link="${link}" >}}`,
-      toPreview: ({link}) => {
+      toPreview: ({text, link}) => {
         return `
         <div class="grid grid-cols-16 place-content-center">
           <div><a href="${link}"><button class="font-bold bg-[#812926] py-3 px-8 mt-4 rounded text-xl hover:bg-opacity-75 text-[#ffffff]">${text}</button></a></div>
