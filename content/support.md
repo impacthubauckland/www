@@ -17,8 +17,6 @@ Impact Hub Auckland offers a range of entrepreneurial support services ranging f
 
 Our Business Health Check is a quick and easy way to take the temperature of your business and identify areas for improvement. You’ll be asked to fill in a short survey, and then you'll be connected with one of our Impact Associates. Our Business Health Check sessions take 2 hours and can be held via Zoom or in person.
 
-
-
 Developing an effective marketing campaign
 
 * Improving net profit drivers
@@ -30,7 +28,7 @@ Developing an effective marketing campaign
 * Developing a consistent brand strategy
 * Discovering new business markets & reaching new customers
 
-[Enquire now (DRAFT HSFORMS)](<>)
+[{{< ctabutton text="Enquire Now" link="/about" >}} ](https://forms.gle/FkXrkBNznJ9SVCtXA)
 
 ## Connect with a Mentor
 
@@ -49,7 +47,7 @@ Our team of Associates is made up of experienced and talented entrepreneurial th
 * Impact Management Support
 * Business Support
 
-[Enquire now (DRAFT HSFORMS)](<>)
+[{{< ctabutton text="Become a Mentor" link="/about" >}} ](https://forms.gle/3MvEqGsEWUsvNg9a9)
 
 #### Want to become a Mentor? Get in touch with our team and we can send you more information.
 
@@ -65,7 +63,9 @@ Workbenches will be held at various community venues throughout Auckland or onli
 
 Every second month, Impact Hub hosts an in person workshop at our hubs on a member generated topic, hosted by a different expert. Find out what's trending, learn new skills, problem solve, and gain the knowledge you need to help your business grow. 
 
-Workshops are free for [Connect Members](/join-us/).
+Workshops are free for [ ](/join-us/)Impact Hub Members
+
+![Workshops](banner-2-iha.jpg)
 
 #### Help your impact business grow
 
@@ -81,4 +81,4 @@ In our Workshops we've covered everything from SEO to Storytelling - here are so
 
 [Join us today](/join-us/)
 
-### Programmes
+### [Programmes](https://impacthubauckland.nz/programmes/)
