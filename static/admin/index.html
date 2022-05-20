@@ -63,9 +63,9 @@
           `{{< hlist collection="${collection}" height=${height} >}}`,
       toPreview: ({collection, height}) => {
         return `
-        <div class="flex place-content-evenly bg-warmgray-900">
+        <div class="flex place-content-evenly bg-warmgray-700">
           <div>&nbsp;</div>
-          <div class="flex-none h-${height}-px">Display a horizontal list of images from ${collection}</div>
+          <div class="flex-none h-${height}-px text-white">PLACEHOLDER Display a horizontal list of images from ${collection}</div>
           <div>&nbsp;</div>
         </div>
         <p>&nbsp</p>
@@ -100,10 +100,8 @@
           `{{< optimisedImage image="${image}" height=${height}  alt="${alt}" >}}`,
       toPreview: ({image, height, alt}) => {
         return `
-        <div class="flex place-content-evenly bg-warmgray-900">
-          <div>&nbsp;</div>
-          <div class="flex-none"><img alt="${alt}" src="${image}" height="${height}" style="height: ${height}px;"></div>
-          <div>&nbsp;</div>
+        <div class="flex place-content-evenly">
+          <div class="flex-none"><img alt="${alt}" src="/${image}" height="${height}" style="height: ${height}px;"></div>
         </div>
         `
       }
