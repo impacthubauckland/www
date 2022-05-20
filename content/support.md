@@ -28,7 +28,7 @@ Developing an effective marketing campaign
 * Developing a consistent brand strategy
 * Discovering new business markets & reaching new customers
 
-[{{< ctabutton text="Enquire Now" link="/about" >}} ](https://forms.gle/FkXrkBNznJ9SVCtXA)
+[{{< ctabutton text="Enquire Now" link="](https://forms.gle/FkXrkBNznJ9SVCtXA)https://forms.gle/1zFZcMY6STDeXv7C6[" >}} ](https://forms.gle/FkXrkBNznJ9SVCtXA)
 
 ## Connect with a Mentor
 
@@ -47,7 +47,7 @@ Our team of Associates is made up of experienced and talented entrepreneurial th
 * Impact Management Support
 * Business Support
 
-[{{< ctabutton text="Become a Mentor" link="/about" >}} ](https://forms.gle/3MvEqGsEWUsvNg9a9)
+[{{< ctabutton text="Become a Mentor" link="](https://forms.gle/3MvEqGsEWUsvNg9a9)https://forms.gle/6Ht6Q45hCZvRxELR8[" >}} ](https://forms.gle/3MvEqGsEWUsvNg9a9)
 
 #### Want to become a Mentor? Get in touch with our team and we can send you more information.
 
@@ -79,6 +79,6 @@ In our Workshops we've covered everything from SEO to Storytelling - here are so
 * Growth Hacking - growth for impact entrepreneurs
 * The F Word - yes we're talking Finances
 
-[Join us today](/join-us/)
+[{{< ctabutton text="Join Us Today" link="](https://forms.gle/3MvEqGsEWUsvNg9a9)https://forms.gle/S3xSzbbRG4tccF7aA[" >}} ](https://forms.gle/3MvEqGsEWUsvNg9a9)
 
 ### [Programmes](https://impacthubauckland.nz/programmes/)
