@@ -19,10 +19,14 @@ The small and mighty IHA team is a driving force behind this new impact eco-syst
 
 [Tom Va’afusuaga](https://www.linkedin.com/in/tom-vaafusuaga/) is co-founder of Impact Hub Auckland and has extensive business incubation experience enabling Maori & Pasifika entrepreneurs. Having co-started a social enterprise focused on enabling Maori tribes, Tom understands the mindset needed to take an idea to a thriving impact driven business. Being an accountant he also works alongside kiwi and Pacific Island businesses and NGOs to ensure they are financially viable and are fulfilling their accounting and compliance activities. Tom is also the founder of [Manulua.](https://www.manulua.co.nz/)
 
-
+![Tom Vaafusuaga](img_0148.jpg "Tom Vaafusuaga")
 
 [Ger (Geraldine) Tew](https://www.linkedin.com/in/geraldine-tew-19924957/) was a board member and events manager for Social Enterprise Auckland. She has been a core member of the transition to Impact Hub Auckland and is also the Founder of [The ReCreators](https://therecreators.co.nz/), an upcycle collective that delivers circular design programmes in schools and community groups working on how to design products from existing materials. She has strong expertise in product design and development, community building and generic start-up skills. From previous work experience with MBIE, she has a comprehensive understanding of refugee and migrant settlement outcomes and pathways for success. 
 
+![Ger Tew](ger-tew.jpg "Ger Tew")
+
 [Stefan Rüegg](https://www.linkedin.com/in/stefan-r%C3%BCegg-b488296/) is a co founder of Impact Hub Auckland and also [Proxima Global](http://proxima.global/). He is a highly versatile strategist, networker and change agent whose work focuses on catalysing positive social and environmental impact in business. He combines more than fifteen years of sustainability experience as a business consultant and corporate sustainability analyst. Originally he qualified as an environmental scientist from Switzerland’s leading scientific university.
+
+
 
 [Sasha Joseph](https://www.linkedin.com/in/sasha-joseph-4a248522a/) is a Learning & Development Consultant, Instructional Designer and Team Leading Trainer who designs solutions to improve employee performance and engagement. After visiting Impact Hub Geneva, Sasha walked away with a desire to set one up in Auckland. Being in a space with like-minded people who are curious, entrepreneurial and passionate is the perfect combination of change making for Aotearoa. This is Sasha's first entrepreneurial venture.
