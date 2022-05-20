@@ -29,7 +29,7 @@ Impact requires significant, dedicated collaboration and collective action. The 
 
 ### JOIN A GLOBAL NETWORK
 
-![24250 entrepreneurs & innovators, 63 countries, 105 locations ](images/banner-ih-global-impact-.png)
+{{< optimisedImage image="images/banner-ih-global-impact-.png" height=280 alt="24250 entrepreneurs & innovators, 63 countries, 105 locations" >}}
 
 ### JOIN OUR TRIBE OF CHANGEMAKERS
 
