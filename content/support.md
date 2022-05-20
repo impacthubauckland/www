@@ -47,7 +47,7 @@ Our team of Associates is made up of experienced and talented entrepreneurial th
 * Impact Management Support
 * Business Support
 
-[{{< ctabutton text="Become a Mentor" link="/about" >}} ](https://forms.gle/3MvEqGsEWUsvNg9a9)
+[{{< ctabutton text="Become a Mentor" link="](https://forms.gle/3MvEqGsEWUsvNg9a9)https://forms.gle/6Ht6Q45hCZvRxELR8[" >}} ](https://forms.gle/3MvEqGsEWUsvNg9a9)
 
 #### Want to become a Mentor? Get in touch with our team and we can send you more information.
 
