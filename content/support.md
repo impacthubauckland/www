@@ -79,6 +79,6 @@ In our Workshops we've covered everything from SEO to Storytelling - here are so
 * Growth Hacking - growth for impact entrepreneurs
 * The F Word - yes we're talking Finances
 
-[Join us today](/join-us/)
+[{{< ctabutton text="Join Us Today" link="](https://forms.gle/3MvEqGsEWUsvNg9a9)https://forms.gle/S3xSzbbRG4tccF7aA[" >}} ](https://forms.gle/3MvEqGsEWUsvNg9a9)
 
 ### [Programmes](https://impacthubauckland.nz/programmes/)
