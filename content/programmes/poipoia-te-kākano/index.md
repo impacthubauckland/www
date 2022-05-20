@@ -11,7 +11,11 @@ The programme will focus on business ideation and optimisation; along with focus
 
 This programme is in partnership with Kāinga Ora; initiated to nurture business opportunities for local people in their own neighbourhoods.
 
+<center>
+
 ![Poipoia Te Kakano](ptk-digital-banner-2mb.jpg)
+
+</center>
 
 The end goal of the programme is two-fold. One, to equip aspiring young entrepreneurs with the tools and mindset required to start a business and two, to connect them to our network of inspiring impact enterprises, where they have the opportunity to volunteer or become a part of the (founding) team.
 
