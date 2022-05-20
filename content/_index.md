@@ -15,7 +15,7 @@ We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovat
 
 ### WHAT WE OFFER
 
-{{< hlist collection="offers" height="280" >}}
+{{< hlist collection="offers" height=280 >}}
 
 ### COLLABORATION FOR SYSTEMIC CHANGE
 
@@ -23,7 +23,7 @@ Impact requires significant, dedicated collaboration and collective action. The 
 
 ### OUR FOCUS
 
-{{< hlist collection="focus" height="280" >}}
+{{< hlist collection="focus" height=280 >}}
 
 {{< ctabutton text="JOIN US TODAY" link="https://forms.gle/KthkVEtUQUUpW2bM7" >}}
 

@@ -1,6 +1,6 @@
 {{ $imageUrl := .Get "image" }}
 {{ $height := .Get "height" }}
-{{ $altText := .Get "altText" }}
+{{ $altText := .Get "alt" }}
 
 <div class="flex place-content-evenly">
   {{ $image := resources.GetMatch $imageUrl }}
