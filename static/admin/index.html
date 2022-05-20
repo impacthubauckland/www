@@ -31,14 +31,45 @@
             link: match[2]
           };
       },
-      toBlock: ({link}) =>
+      toBlock: ({text, link}) =>
           `{{< ctabutton text="${text}" link="${link}" >}}`,
       toPreview: ({text, link}) => {
         return `
         <div class="grid grid-cols-16 place-content-center">
           <div><a href="${link}"><button class="font-bold bg-[#812926] py-3 px-8 mt-4 rounded text-xl hover:bg-opacity-75 text-[#ffffff]">${text}</button></a></div>
         </div>
-
+        `
+      }
+    })
+    CMS.registerEditorComponent({
+      id:"hlist",
+      label: "Horizontal Collection",
+      fields:[{
+          name: "collection",
+          label: "Collection",
+          widget: "string"
+      },{
+          name: "height",
+          label: "Height (px)",
+          widget: "string"
+      }],
+      pattern: /{{< hlist collection="(.*)" height="(.*)" >}}/,
+      fromBlock: function(match){
+          return{
+            collection: match[1],
+            height: match[2]
+          };
+      },
+      toBlock: ({collection, height}) =>
+          `{{< hlist collection="${collection}" height="${height}" >}}`,
+      toPreview: ({collection, height}) => {
+        return `
+        <div class="flex place-content-evenly bg-warmgray-900">
+          <div>&nbsp;</div>
+          <div class="flex-none h-${height}-px">Display a horizontal list of images from ${collection}</div>
+          <div>&nbsp;</div>
+        </div>
+        <p>&nbsp</p>
         `
       }
     })
