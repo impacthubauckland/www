@@ -13,3 +13,5 @@ stefan.ruegg@impacthub.net
 ger.tew@impacthub.net
 
 tom.vaafusuaga@impacthub.net
+
+![](img_0138.jpg)
