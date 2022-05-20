@@ -28,7 +28,7 @@ Developing an effective marketing campaign
 * Developing a consistent brand strategy
 * Discovering new business markets & reaching new customers
 
-[{{< ctabutton text="Enquire Now" link="/about" >}} ](https://forms.gle/FkXrkBNznJ9SVCtXA)
+[{{< ctabutton text="Enquire Now" link="](https://forms.gle/FkXrkBNznJ9SVCtXA)https://forms.gle/1zFZcMY6STDeXv7C6[" >}} ](https://forms.gle/FkXrkBNznJ9SVCtXA)
 
 ## Connect with a Mentor
 
