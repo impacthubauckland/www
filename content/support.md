@@ -65,6 +65,8 @@ Every second month, Impact Hub hosts an in person workshop at our hubs on a memb
 
 Workshops are free for [ ](/join-us/)Impact Hub Members
 
+![Workshops](banner-2-iha.jpg)
+
 #### Help your impact business grow
 
 In our Workshops we've covered everything from SEO to Storytelling - here are some past workshop examples:
