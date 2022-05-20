@@ -1,45 +1,45 @@
 ---
 weight: 1
-title: Poipoia te kākano (Nuture the seed) - Start-up Programme - June 2022
+title: Poipoia te kākano (Nurture the seed) - Start-up Programme - June 2022
 date: 2022-05-19T21:00:20.760Z
 ---
-An 10 week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, Poipoia te Kākano (PtK) is here to up-skill, inspire and connect a new wave of change-makers.  Impact Hub’s intention is to offer inspiration, support and connection to a new wave of change-makers.
+A 10-week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, Poipoia te Kākano is here to up-skill, inspire and connect a new wave of change-makers.
 
 {{< ctabutton text="APPLY NOW" link="https://forms.gle/Jr9ohXMKVyTogHke7" >}}
 
-The programme will focus on business ideation, business optimisation and entrepreneurial mindset through capacity building workshops, mentoring and coaching, networking opportunities in the innovative Kiwi startup scene and connection to either jobs or capital.
+The programme will focus on business ideation and optimisation; along with focusing on entrepreneurial mindset through capacity building workshops, mentoring and coaching. There will be networking opportunities in the innovative Kiwi startup scene and connection to either jobs or capital.
 
-This programme is in partnership by Kāinga Ora.  In the development of new neighbourhoods, we see many opportunities for supporting community economic development space. Enabling and supporting the locally led businesses to succeed in our new urban areas is a new approach for Kāinga Ora.  Supporting local economic development aligns purposefully with a mandate to support thriving communities in our Large Scale Development neighbourhoods’ particularly in those where commercial space is planned as part of the new urban design masterplan.  
+This programme is in partnership with Kāinga Ora; initiated to nurture business opportunities for local people in their own neighbourhoods.
 
 ![Poipoia Te Kakano](banner-ptk.jpg)
 
 The end goal of the programme is two-fold. One, to equip aspiring young entrepreneurs with the tools and mindset required to start a business and two, to connect them to our network of inspiring impact enterprises, where they have the opportunity to volunteer or become a part of the (founding) team.
 
-Applications for June 2022 cohorts are now open. Free for Auckland residents of - Oranga Roskill South, Waikōwhai, Ōwairaka and Wesley.
+Applications for June 2022 cohorts are now open. Free for Auckland residents of – Oranga, Roskill South, Waikōwhai, and Ōwairaka..
 
 ### Who is it for?
 
 **We are looking for motivated candidates who:**
 
-* are resident in 
+* Are resident in 
 
   * Oranga
   * Roskill South
   * Waikōwhai
   * Ōwairaka
-  * Wesley
-* are interested in creating and testing a new business idea
-* are already in business but are winging it / don’t have a clear vision
-* want to be connected to the vibrant Kiwi start-up scene.
+* Are interested in creating and testing a new business idea
+* Are already in business but are winging it / don’t have a clear vision
+* Want to be connected to the vibrant Kiwi start-up scene.
 
 {{< ctabutton text="EOI FOR A SPACE" link="https://forms.gle/Jr9ohXMKVyTogHke7" >}}
 
+
+
 Candidates of all ages and backgrounds are welcome to apply. You do not have to have a clear idea, nor do you have to have previous experience in business or entrepreneurship to enter the programme. The only entry criteria is a healthy dose of motivation and drive!
 
-What's the focus?
-This 10-week ‘pressure-cooker’ of a programme is designed to fast track your entrepreneurial journey. You will be inspired and enabled to create and test a new business idea or innovate your existing business.
+What’s the focus? This 10-week ‘pressure-cooker’ programme is designed to fast track your entrepreneurial journey. You will be inspired and enabled to create and test a new business idea or innovate your existing business.
 
-By the end of the programme, you can expect to be equipped with the tools and entrepreneurial mindset required to create your own impact-driven business, and be connected to a vibrant community of entrepreneurs and start-ups.
+By the end of the programme, you can expect to be equipped with the tools and entrepreneurial mindset required to create your own impact-driven business, and connected to a vibrant community of entrepreneurs and start-ups.
 
 ### What's the time commitment?
 
@@ -59,7 +59,7 @@ We will cover a range of topics relevant to creating and testing a business idea
 * Marketing Strategies and 
 * Customer/User Discovery and Experience.
 
-These topics will be delivered by experts in the field. Developing an entrepreneurial mindset and knowing yourself is also key to everyone’s entrepreneurial journey. For that reason, we will also include discussions on what it means to have an Entrepreneurial Mindset and some key differences between being an entrepreneur vs an employee.
+Experts in the field will deliver these topics. Developing an entrepreneurial mindset and knowing yourself is also key to everyone’s programmejourney. For that reason, we will also include discussions on what it means to have an Entrepreneurial Mindset and some key differences between being an entrepreneur vs an employee.
 
 {{< ctabutton text="EOI Form" link="https://forms.gle/Jr9ohXMKVyTogHke7" >}}
 
