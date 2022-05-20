@@ -6,7 +6,7 @@ Our story dates back to 2012, when a collaborative project led by Auckland Counc
 
 In 2015, Social Enterprise Auckland (SEA) was established as a member based organisation (an Incorporated Society) in order to develop a vehicle for social enterprises and their supporters to lead this effort and create an environment in which social enterprise is just a normal way of doing business.
 
-Fast forward to 2020, when the board of SEA, who included Paul Kerssans from Impact Hub Waikato, decided to investigate the possibility of joining the global Impact Hub movement.  During 2021, a series of hui (meetings) were ran across the city with entrepreneurs, intrapreneurs, local government and charities to investigate the appetite for Impact Hub Auckland. Positive feedback was received with a desire for access to
+Fast forward to 2020, when the board of SEA, which included Paul Kerssans from Impact Hub Waikato, decided to investigate the possibility of joining the global Impact Hub movement.  During 2021, a series of hui (meetings) were ran across the city with entrepreneurs, intrapreneurs, local government and charities to investigate the appetite for Impact Hub Auckland. Positive feedback was received from impact entrepreneurs wanting access to:
 
 * knowledge & expertise
 * networks
@@ -28,8 +28,6 @@ The small and mighty IHA team is a driving force behind this new impact eco-syst
 [Stefan Rüegg](https://www.linkedin.com/in/stefan-r%C3%BCegg-b488296/) is a co founder of Impact Hub Auckland and also [Proxima Global](http://proxima.global/). He is a highly versatile strategist, networker and change agent whose work focuses on catalysing positive social and environmental impact in business. He combines more than fifteen years of sustainability experience as a business consultant and corporate sustainability analyst. Originally he qualified as an environmental scientist from Switzerland’s leading scientific university.
 
 ![Stefan Rüegg](stefan-photo-sq.jpg "Stefan Rüegg")
-
-
 
 [Sasha Joseph](https://www.linkedin.com/in/sasha-joseph-4a248522a/) is a Learning & Development Consultant, Instructional Designer and Team Leading Trainer who designs solutions to improve employee performance and engagement. After visiting Impact Hub Geneva, Sasha walked away with a desire to set one up in Auckland. Being in a space with like-minded people who are curious, entrepreneurial and passionate is the perfect combination of change making for Aotearoa. This is Sasha's first entrepreneurial venture.
 
