@@ -97,7 +97,7 @@
           };
       },
       toBlock: ({image, height, alt}) =>
-          `{{< optimisedImage image="${image}" height="${height}"  alt="${alt}" >}}`,
+          `{{< optimisedImage image="${image}" height=${height}  alt="${alt}" >}}`,
       toPreview: ({image, height, alt}) => {
         return `
         <div class="flex place-content-evenly bg-warmgray-900">

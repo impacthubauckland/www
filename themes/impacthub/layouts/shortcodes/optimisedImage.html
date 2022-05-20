@@ -4,7 +4,7 @@
 
 <div class="flex place-content-evenly">
   {{ $image := resources.GetMatch $imageUrl }}
-  {{ with $image.Resize (printf "%dx%d webp" $height $height) }}
+  {{ with $image.Resize (printf "x%d webp" $height) }}
   <div class="flex-none"><img alt="{{ $altText }}" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" style="height: {{ .Height }}px;"></div>
   {{ end }}
 </div>
