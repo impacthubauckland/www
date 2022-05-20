@@ -9,7 +9,6 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-  <script src="https://sharadcodes.github.io/hugo-shortcodes-netlify-cms/dist/hugo_shortcodes_netlify_cms.js"></script>
   <script>
     CMS.registerPreviewStyle("/admin/preview.css");
     CMS.registerEditorComponent({
@@ -70,6 +69,42 @@
           <div>&nbsp;</div>
         </div>
         <p>&nbsp</p>
+        `
+      }
+    })
+    CMS.registerEditorComponent({
+      id:"optimsed-image",
+      label: "Resized Centered image",
+      fields:[{
+          name: "image",
+          label: "Image Url",
+          widget: "image"
+      },{
+          name: "height",
+          label: "Height (px)",
+          widget: "string"
+      },{
+          name: "alt",
+          label: "Alt text",
+          widget: "string"
+      }],
+      pattern: /{{< optimsed-image image="(.*)" height="(.*) alt="(.*)" >}}/,
+      fromBlock: function(match){
+          return{
+            image: match[1],
+            height: match[2],
+            alt: match[3]
+          };
+      },
+      toBlock: ({image, height, alt}) =>
+          `{{< optimsed-image image="${image}" height="${height}"  alt="${alt}" >}}`,
+      toPreview: ({image, height, alt}) => {
+        return `
+        <div class="flex place-content-evenly bg-warmgray-900">
+          <div>&nbsp;</div>
+          <div class="flex-none"><img alt="${alt}" src="${image}" height="${height}" style="height: ${height}px;"></div>
+          <div>&nbsp;</div>
+        </div>
         `
       }
     })

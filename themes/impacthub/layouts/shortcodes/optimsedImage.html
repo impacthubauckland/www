@@ -1,0 +1,10 @@
+{{ $imageUrl := .Get "image" }}
+{{ $height := .Get "height" }}
+{{ $altText := .Get "altText" }}
+
+<div class="flex place-content-evenly">
+  {{ $image := resources.GetMatch $imageUrl }}
+  {{ with $image.Resize (printf "%dx%d webp" $height $height) }}
+  <div class="flex-none"><img alt="{{ $altText }}" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" style="height: {{ .Height }}px;"></div>
+  {{ end }}
+</div>
