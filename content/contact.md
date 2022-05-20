@@ -16,4 +16,4 @@ tom.vaafusuaga@impacthub.net
 
 sasha.joseph@impacthub.net
 
-![](img_0138.jpg)
+![Tom Ger Sasha Stefan](img_0138.jpg "The Impact Hub Team")
