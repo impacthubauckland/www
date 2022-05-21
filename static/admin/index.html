@@ -41,6 +41,63 @@
       }
     })
     CMS.registerEditorComponent({
+      id:"ctabanner",
+      label: "Banner with Header and Call to Action",
+      fields:[{
+          name: "button",
+          label: "Button text",
+          widget: "string"
+      },{
+          name: "heading",
+          label: "Header text",
+          widget: "string"
+      },{
+          name: "height",
+          label: "Height (px)",
+          widget: "number"
+      },{
+          name: "image",
+          label: "Image Url",
+          widget: "image"
+      },{
+          name: "link",
+          label: "link",
+          widget: "string"
+      }],
+      pattern: /{{< ctabanner button="(.*)" heading="(.*)" height=(.*) image="(.*)" link="(.*)" >}}/,
+      fromBlock: function(match){
+          return{
+            button: match[1],
+            heading: match[2],
+            height: match[3],
+            image: match[4],
+            link: match[5]
+          };
+      },
+      toBlock: ({button, heading, height, image, link}) =>
+          `{{< ctabanner button="${button}" heading="${heading}" height=${height} image="${image}" link="${link}" >}}`,
+      toPreview: ({button, heading, height, image, link}) => {
+        return `
+        <div class="bg-local bg-auto bg-no-repeat bg-center h-${height}-px" style="background-image: url(${image})">
+          <div class="flex h-full w-full hover:bg-core-secondary hover:bg-opacity-25">
+            <div class="m-auto invisible sm:visible">
+              <div class="flex flex-col pt-6 space-y-4 md:p-8 ">
+                <div class="grow h-24">
+                </div>
+                <div class="grow ">
+                </div>
+                <div>
+                  <a href="${link}"><button class="font-bold bg-[#812926] py-3 px-8 mt-4 rounded text-xl hover:bg-opacity-75 float-right text-[#ffffff]">${button}</button></a>
+                </div>
+                <p class="flex-auto text-5xl space-y-4 float-left bg-slate-600/40 text-[#ffffff]">${heading}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        `
+      }
+    })
+    CMS.registerEditorComponent({
       id:"hlist",
       label: "Horizontal Collection",
       fields:[{

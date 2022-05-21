@@ -1,14 +1,10 @@
 ---
 weight: 1
 title: Home
-bannercta:
-  button: JOIN OUR CHANGE MAKERS
-  heading: Enabling businesses to be a force for good with a focus on social &
-    climate justice
-  height: 350
-  align: left
-  image: images/banner-iha.jpg
 ---
+
+{{< ctabanner button="JOIN OUR CHANGE MAKERS" heading="Enabling businesses to be a force for good with a focus on social & climate justice" height=350 image="/images/banner-iha.jpg" link="/about" >}}
+
 ### OUR VISION FOR IMPACT HUB TĀMAKI MAKAURAU
 
 We are creating a magnetic ecosystem for changemakers, entrepreneurs and innovators who want to create positive systematic change for people and planet through regenerative, circular, social and cultural business models. 
