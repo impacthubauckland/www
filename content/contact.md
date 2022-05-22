@@ -3,10 +3,6 @@ weight: 6
 title: Contact
 ---
 
-{{< ctabutton text="BECOME A MEMBER" link="https://forms.gle/KthkVEtUQUUpW2bM7" >}}
-
-## Contact our team
-
 {{< rawhtml >}}
       <form name="contact-us-email" method="POST" action="#" data-netlify="true">
         <div class="grid grid-cols-1 gap-4">
