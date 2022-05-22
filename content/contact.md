@@ -2,18 +2,45 @@
 weight: 6
 title: Contact
 ---
-Impact Hub Auckland
 
-[{{< ctabutton text="BECOME A MEMBER" link="/about" >}} ](https://forms.gle/KthkVEtUQUUpW2bM7)
+{{< ctabutton text="BECOME A MEMBER" link="https://forms.gle/KthkVEtUQUUpW2bM7" >}}
 
-### Contact our team
+## Contact our team
 
-stefan.ruegg@impacthub.net
+{{< rawhtml >}}
+      <form name="contact-us-email" method="POST" action="#" data-netlify="true">
+        <div class="grid grid-cols-1 gap-4">
+          <div class="block">
+            <div class="flex flex-col">
+              <label class="p-2">Name:</label>
+              <input name="user_name" type="text" class="border-2 p-2 form-control" placeholder="Your Name">
+            </div>
+            <div class="flex flex-col">
+              <label class="p-2">Email:</label>
+              <input name="user_email" type="email" class="border-2 p-2 form-control" placeholder="Email Address">
+            </div>
+            <div class="flex flex-col">
+              <label class="p-2">Phone:</label>
+              <input name="user_phone" type="tel" class="border-2 p-2 form-control" placeholder="Phone">
+            </div>
+          </div>
+          <div class="block">
+            <div class="flex flex-col">
+              <label class="p-2">Message:</label>
+              <textarea class="border-2 p-2" name="user_message" class="form-control" rows="4" placeholder="Your Message"></textarea>
+            </div>
+            <div class="flex justify-center py-4">
+            <button class="font-bold bg-[#812926] py-3 px-8 mt-4 rounded text-xl hover:bg-opacity-75 text-[#ffffff]" type="submit">Submit</button>
+          </div>
+        </div>
+      </form>
+    </div>
 
-ger.tew@impacthub.net
+    
+{{</ rawhtml >}}
 
-tom.vaafusuaga@impacthub.net
 
-sasha.joseph@impacthub.net
+#### <a href="mailto:auckland@impacthub.net">auckland@impacthub.net</a>
 
-![Tom Ger Sasha Stefan](img_0138.jpg "The Impact Hub Team")
+![Tom Ger Sasha Stefan](/images/img_0138.jpg "The Impact Hub Team")
+
