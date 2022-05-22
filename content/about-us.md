@@ -22,7 +22,7 @@ The small and mighty IHA team is a driving force behind this new impact eco-syst
   <div class="space-y-4">
         <img class="w-auto h-56 rounded-2xl mx-auto" src="/images/img_0148.jpg" alt="">
       <p class="text-lg font-medium">
-        [Tom Va’afusuaga](https://www.linkedin.com/in/tom-vaafusuaga/) is co-founder of Impact Hub Auckland and has extensive business incubation experience enabling Maori & Pasifika entrepreneurs. Having co-started a social enterprise focused on enabling Maori tribes, Tom understands the mindset needed to take an idea to a thriving impact driven business. Being an accountant he also works alongside kiwi and Pacific Island businesses and NGOs to ensure they are financially viable and are fulfilling their accounting and compliance activities. Tom is also the founder of [Manulua.](https://www.manulua.co.nz/)
+        <a href="https://www.linkedin.com/in/tom-vaafusuaga/">Tom Va’afusuaga</a> is co-founder of Impact Hub Auckland and has extensive business incubation experience enabling Maori & Pasifika entrepreneurs. Having co-started a social enterprise focused on enabling Maori tribes, Tom understands the mindset needed to take an idea to a thriving impact driven business. Being an accountant he also works alongside kiwi and Pacific Island businesses and NGOs to ensure they are financially viable and are fulfilling their accounting and compliance activities. Tom is also the founder of <a href="https://www.manulua.co.nz/">Manulua</a>.
       </p>
   </div>
 </figure>
@@ -33,7 +33,7 @@ The small and mighty IHA team is a driving force behind this new impact eco-syst
   <div class="space-y-4">
         <img class="w-auto h-56 rounded-2xl mx-auto" src="/images/ger-tew.jpg" alt="">
       <p class="text-lg font-medium">
-        [Ger (Geraldine) Tew](https://www.linkedin.com/in/geraldine-tew-19924957/) was a board member and events manager for Social Enterprise Auckland. She has been a core member of the transition to Impact Hub Auckland and is also the Founder of [The ReCreators](https://therecreators.co.nz/), an upcycle collective that delivers circular design programmes in schools and community groups working on how to design products from existing materials. She has strong expertise in product design and development, community building and generic start-up skills. From previous work experience with MBIE, she has a comprehensive understanding of refugee and migrant settlement outcomes and pathways for success.
+        <a href="https://www.linkedin.com/in/geraldine-tew-19924957/">Ger (Geraldine) Tew</a>  was a board member and events manager for Social Enterprise Auckland. She has been a core member of the transition to Impact Hub Auckland and is also the Founder of <a href="https://therecreators.co.nz/">The ReCreators</a>, an upcycle collective that delivers circular design programmes in schools and community groups working on how to design products from existing materials. She has strong expertise in product design and development, community building and generic start-up skills. From previous work experience with MBIE, she has a comprehensive understanding of refugee and migrant settlement outcomes and pathways for success.
       </p>
   </div>
 </figure>
@@ -44,7 +44,7 @@ The small and mighty IHA team is a driving force behind this new impact eco-syst
   <div class="space-y-4">
         <img class="w-auto h-56 rounded-2xl mx-auto" src="/images/stefan-photo.jpg" alt="">
       <p class="text-lg font-medium">
-      [Stefan Rüegg](https://www.linkedin.com/in/stefan-r%C3%BCegg-b488296/) is a co founder of Impact Hub Auckland and also [Proxima Global](http://proxima.global/). He is a highly versatile strategist, networker and change agent whose work focuses on catalysing positive social and environmental impact in business. He combines more than fifteen years of sustainability experience as a business consultant and corporate sustainability analyst. Originally he qualified as an environmental scientist from Switzerland’s leading scientific university.
+      <a href="https://www.linkedin.com/in/stefan-r%C3%BCegg-b488296/">Stefan Rüegg</a> is a co founder of Impact Hub Auckland and also <a href="http://proxima.global/">Proxima Global</a>. He is a highly versatile strategist, networker and change agent whose work focuses on catalysing positive social and environmental impact in business. He combines more than fifteen years of sustainability experience as a business consultant and corporate sustainability analyst. Originally he qualified as an environmental scientist from Switzerland’s leading scientific university.
       </p>
   </div>
 </figure>
@@ -55,7 +55,7 @@ The small and mighty IHA team is a driving force behind this new impact eco-syst
   <div class="space-y-4">
       <p class="text-lg font-medium">
         <img class="w-auto h-56 rounded-2xl mx-auto" src="/images/sasha-sq.jpg" alt="" width="384" height="512">
-        [Sasha Joseph](https://www.linkedin.com/in/sasha-joseph-4a248522a/) is a Learning & Development Consultant, Instructional Designer and Team Leading Trainer who designs solutions to improve employee performance and engagement. After visiting Impact Hub Geneva, Sasha walked away with a desire to set one up in Auckland. Being in a space with like-minded people who are curious, entrepreneurial and passionate is the perfect combination of change making for Aotearoa. This is Sasha's first entrepreneurial venture.
+        <a href="https://www.linkedin.com/in/sasha-joseph-4a248522a/">Sasha Joseph</a> is a Learning & Development Consultant, Instructional Designer and Team Leading Trainer who designs solutions to improve employee performance and engagement. After visiting Impact Hub Geneva, Sasha walked away with a desire to set one up in Auckland. Being in a space with like-minded people who are curious, entrepreneurial and passionate is the perfect combination of change making for Aotearoa. This is Sasha's first entrepreneurial venture.
       </p>
   </div>
 </figure>
