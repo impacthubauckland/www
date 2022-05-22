@@ -3,12 +3,12 @@
 {{ $headless := .Site.GetPage (print "/iha/" $coll)}}
 {{ $reusablePages := $headless.Pages }}
 
-<div class="flex place-content-evenly">
+<div class="flex flex-wrap md:flex-nowrap place-content-evenly">
   {{ range $reusablePages }}
   {{ $page := . }}
   {{ $image := resources.GetMatch .Params.image }}
   {{ with $image.Resize (printf "%dx%d webp icon" $height $height) }}
-  <div class="flex-none"><img alt="{{ $page.Title }}" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" style="height: {{ .Height }}px;"></div>
+  <div class=" shrink md:shrink-0"><img alt="{{ $page.Title }}" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"></div>
   {{ end }}
   {{ end }}
 </div>

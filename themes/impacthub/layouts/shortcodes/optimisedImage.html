@@ -5,6 +5,6 @@
 <div class="flex place-content-evenly">
   {{ $image := resources.GetMatch $imageUrl }}
   {{ with $image.Resize (printf "x%d webp" $height) }}
-  <div class="flex-none"><img alt="{{ $altText }}" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" style="height: {{ .Height }}px;"></div>
+  <div class="shrink md:scale-100"><img alt="{{ $altText }}" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"></div>
   {{ end }}
 </div>
