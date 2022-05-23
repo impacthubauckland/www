@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Poipoia te kākano (Nurture the seed) - Start-up Programme - June 2022
+title: Poipoia te Kākano (Nurture the seed) - Start-up Programme - June 2022
 date: 2022-05-19T21:00:20.760Z
 ---
 A 10-week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, Poipoia te Kākano is here to up-skill, inspire and connect a new wave of change-makers.
@@ -63,7 +63,7 @@ Experts in the field will deliver these topics. Developing an entrepreneurial mi
 
 {{< ctabutton text="EOI Form" link="https://forms.gle/Jr9ohXMKVyTogHke7" >}}
 
-### What makes Poipoia te kākano special?
+### What makes Poipoia te Kākano special?
 
 The Poipoia te kākano programme, does not host workshops where you sit down, listen and leave. We focus on action! Our expert-led workshops are designed to be interactive and practical, so that you have something to work on after every session. You will have key deliverables to work towards and you will pitch your business idea to an audience at the end of the programme.
 
@@ -73,7 +73,7 @@ Alongside group activities like the high quality capacity building workshops, yo
 
 ### How can you apply?
 
-Applications for the Poipoia te kākano programme for 2022 are now open until 20 June 2022.
+Applications for the Poipoia te Kākano programme for 2022 are now open until 20 June 2022.
 
 Successful participants will receive a free 6-month membership to Impact Hub Auckland and benefit from discounts to workshops, events, programmes.
 
