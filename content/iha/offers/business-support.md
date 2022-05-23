@@ -1,6 +1,6 @@
 ---
 title: Business Support
 name: Business Support
+link: "/support/"
 image: /images/3.png
 ---
-[Business Support](https://impacthubauckland.nz/support/)

@@ -6,9 +6,14 @@
 <div class="flex flex-wrap md:flex-nowrap place-content-evenly">
   {{ range $reusablePages }}
   {{ $page := . }}
+  {{ $link := .Params.link }}
   {{ $image := resources.GetMatch .Params.image }}
   {{ with $image.Resize (printf "%dx%d webp icon" $height $height) }}
-  <div class=" shrink md:shrink-0"><img alt="{{ $page.Title }}" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"></div>
+  <div class="shrink md:shrink-0">
+    <a href="{{ $link }}">
+      <img alt="{{ $page.Title }}" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+    </a>
+  </div>
   {{ end }}
   {{ end }}
 </div>
