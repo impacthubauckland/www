@@ -1,9 +1,9 @@
 ---
 weight: 1
-title: Poipoia te Kākano (Nurture the seed) - Start-up Programme - June 2022
+title: Poipoia te kākano (Nurture the seed) - Start-up Programme - June 2022
 date: 2022-05-19T21:00:20.760Z
 ---
-A 10-week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, Poipoia te Kākano is here to up-skill, inspire and connect a new wave of change-makers.
+A 10-week programme for impact driven entrepreneurs. Through capacity-building workshops, coaching and mentoring, Poipoia te kākano is here to up-skill, inspire and connect a new wave of change-makers.
 
 {{< ctabutton text="APPLY NOW" link="https://forms.gle/Jr9ohXMKVyTogHke7" >}}
 
@@ -11,7 +11,7 @@ The programme will focus on business ideation and optimisation; along with focus
 
 This programme is in partnership with Kāinga Ora; initiated to nurture business opportunities for local people in their own neighbourhoods.
 
-{{< optimisedImage image="/images/ptk-digital-banner-2mb.jpg" height=280  alt="Poipoia te Kakano" >}}
+{{< optimisedImage image="/images/ptk-digital-banner-2mb.jpg" height=280    alt="Poipoia te Kakano" >}}
 
 The end goal of the programme is two-fold. One, to equip aspiring young entrepreneurs with the tools and mindset required to start a business and two, to connect them to our network of inspiring impact enterprises, where they have the opportunity to volunteer or become a part of the (founding) team.
 
@@ -45,7 +45,7 @@ The programme will be delivered over 10 weeks with sessions ranging from 2-3 hou
 
 We end with a pitch and networking event, where participants will have the opportunity to pitch their business idea and network with entrepreneurs, start-ups, investors, funders and more. Participants are expected to attend 80% of the programme to be eligible to pitch.
 
-{{< optimisedImage image="/images/ptk-digital-banner-2mb.jpg" height=280  alt="Poipoia te kakano" >}}
+{{< optimisedImage image="/images/ptk-digital-banner-2mb.jpg" height=280    alt="Poipoia te kakano" >}}
 
 ### What topics will be covered?
 
@@ -63,7 +63,7 @@ Experts in the field will deliver these topics. Developing an entrepreneurial mi
 
 {{< ctabutton text="EOI Form" link="https://forms.gle/Jr9ohXMKVyTogHke7" >}}
 
-### What makes Poipoia te Kākano special?
+### What makes Poipoia te kākano special?
 
 The Poipoia te kākano programme, does not host workshops where you sit down, listen and leave. We focus on action! Our expert-led workshops are designed to be interactive and practical, so that you have something to work on after every session. You will have key deliverables to work towards and you will pitch your business idea to an audience at the end of the programme.
 
@@ -73,7 +73,7 @@ Alongside group activities like the high quality capacity building workshops, yo
 
 ### How can you apply?
 
-Applications for the Poipoia te Kākano programme for 2022 are now open until 20 June 2022.
+Applications for the Poipoia te kākano programme for 2022 are now open until 20 June 2022.
 
 Successful participants will receive a free 6-month membership to Impact Hub Auckland and benefit from discounts to workshops, events, programmes.
 
