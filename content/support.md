@@ -1,5 +1,6 @@
 ---
 title: Business Support
+date: 2019-02-28
 aliases:
   - support
 weight: 6
@@ -10,7 +11,7 @@ Impact Hub Auckland offers a range of entrepreneurial support services ranging f
 
 ## 1-2-1 Support
 
-{{< optimisedImage image="images/mentor-meeting-2.jpg" height=280 alt="Mentor meeting" >}}
+![Mentor meeting ](mentor-meeting-2.jpg)
 
 ## Business Health Check
 
@@ -27,7 +28,7 @@ Developing an effective marketing campaign
 * Developing a consistent brand strategy
 * Discovering new business markets & reaching new customers
 
-{{< ctabutton text="Enquire Now" link="https://forms.gle/KthkVEtUQUUpW2bM7" >}}
+[{{< ctabutton text="Enquire Now" link="](https://forms.gle/1zFZcMY6STDeXv7C6)https://forms.gle/DPSSuFmpGeZhc6YX8[" >}} ](https://forms.gle/1zFZcMY6STDeXv7C6)
 
 ## Connect with a Mentor
 
@@ -46,7 +47,7 @@ Our team of Associates is made up of experienced and talented entrepreneurial th
 * Impact Management Support
 * Business Support
 
-{{< ctabutton text="Become a Mentor" link="https://forms.gle/3MvEqGsEWUsvNg9a9" >}}
+[{{< ctabutton text="Become a Mentor" link="](https://forms.gle/6Ht6Q45hCZvRxELR8)https://forms.gle/6Ht6Q45hCZvRxELR8[" >}} ](https://forms.gle/6Ht6Q45hCZvRxELR8)
 
 #### Want to become a Mentor? Get in touch with our team and we can send you more information.
 
@@ -62,9 +63,9 @@ Workbenches will be held at various community venues throughout Auckland or onli
 
 Every second month, Impact Hub hosts an in person workshop at our hubs on a member generated topic, hosted by a different expert. Find out what's trending, learn new skills, problem solve, and gain the knowledge you need to help your business grow. 
 
-Workshops are free for [Impact Hub Members](/join-us/)
+Workshops are free for [ ](/join-us/)Impact Hub Members
 
-{{< optimisedImage image="images/banner-2-iha.jpg" height=280 alt="Workshops" >}}
+![Workshops](banner-2-iha.jpg)
 
 #### Help your impact business grow
 
@@ -78,6 +79,6 @@ In our Workshops we've covered everything from SEO to Storytelling - here are so
 * Growth Hacking - growth for impact entrepreneurs
 * The F Word - yes we're talking Finances
 
-{{< ctabutton text="Join Us Today" link="https://forms.gle/3MvEqGsEWUsvNg9a9" >}}
+[{{< ctabutton text="Join Us Today" link="](https://forms.gle/S3xSzbbRG4tccF7aA)https://forms.gle/S3xSzbbRG4tccF7aA[" >}} ](https://forms.gle/S3xSzbbRG4tccF7aA)
 
 ### [Programmes](https://impacthubauckland.nz/programmes/)
