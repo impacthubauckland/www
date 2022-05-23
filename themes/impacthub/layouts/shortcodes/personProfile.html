@@ -1,0 +1,14 @@
+{{ $title := .Get "title" }}
+{{ $name := .Get "name" }}
+{{ $photo := .Get "photo" }}
+{{ $linkedinUrl := .Get "linkedin" }}
+{{ $body := .Get "body" }}
+### <a href="{{ $linkedinUrl }}" >{{ $title }}</a>
+<figure class="rounded-xl">
+  <div class="space-y-4">
+      <p class="text-lg font-medium">
+        <img class="w-auto h-56 rounded-2xl mx-auto" src="{{ $name }}" alt="" width="384" height="512">
+        {{ $body }}
+      </p>
+  </div>
+</figure>

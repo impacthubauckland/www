@@ -48,3 +48,8 @@ h5,
 h6 {
   text-align: center;
 }
+
+.footer {
+  background-color: #292929;
+  color: white;
+}

@@ -1,4 +1,5 @@
-<footer class="{{ .Site.Params.base_color }} text-white p-6">
+<div class="p-2"></div>
+<footer class="footer p-6">
     {{ if .Site.Menus.foot }}
     <div class="flex justify-center w-full md:flex md:flex-row sm:items-center sm:w-auto mb-4">
         <div>
@@ -11,6 +12,9 @@
         </div>
     </div>
     {{ end }}
+    <div class="grid grid-cols-5 place-content-center">
+        <div>mailchimp<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/861e0d8d81e38a3ccd0761c2d/6338d3a576c7f2dc59c02de91.js");</script></div>
+    </div>
     <div class="container max-w-screen-xl mr-auto ml-auto">
         <p>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}" class="duration-200 hover:opacity-50">{{ .Site.Title }}</a></p>
     </div>
