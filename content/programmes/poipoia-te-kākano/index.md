@@ -11,7 +11,7 @@ The programme will focus on business ideation and optimisation; along with focus
 
 This programme is in partnership with Kāinga Ora; initiated to nurture business opportunities for local people in their own neighbourhoods.
 
-![Poipoia Te Kakano](ptk-digital-banner-2mb.jpg)
+{{< optimisedImage image="ptk-digital-banner-2mb.jpg" height=280  alt="Poipoia te Kakano" >}}
 
 The end goal of the programme is two-fold. One, to equip aspiring young entrepreneurs with the tools and mindset required to start a business and two, to connect them to our network of inspiring impact enterprises, where they have the opportunity to volunteer or become a part of the (founding) team.
 
@@ -45,7 +45,7 @@ The programme will be delivered over 10 weeks with sessions ranging from 2-3 hou
 
 We end with a pitch and networking event, where participants will have the opportunity to pitch their business idea and network with entrepreneurs, start-ups, investors, funders and more. Participants are expected to attend 80% of the programme to be eligible to pitch.
 
-![](ptk-digital-banner-2mb.jpg)
+{{< optimisedImage image="ptk-digital-banner-2mb.jpg" height=280  alt="Poipoia te kakano" >}}
 
 ### What topics will be covered?
 
