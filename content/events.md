@@ -18,18 +18,7 @@ Whether you are a impact entrepreneur, creation, innovation, intrapreneur or jus
 
 {{< optimisedImage image="images/banner-events.jpg" height=280      alt="Upcoming Events" >}}
 
-<iframe id="iframe-container" src="https://events.humanitix.com/event-listings?w=true&u=GdtEJ6gJgWeRGg2Nd4jvfQugnmw2&o=all&bc=%23353337&bt=Get%20Tickets&tc=%23FFFFFF" width="100%" height="600px" frameborder="0"></iframe>
-                    <script>
-                        window.addEventListener('message', function (e) {
-                            if (e.origin !== "https://events.humanitix.com"){
-                                return;
-                            }   
-                            var messageData = e.data;
-                            var iframeEl = document.getElementById('iframe-container');
-                            if (iframeEl && messageData && !isNaN(messageData.scrollHeight) && messageData.location === iframeEl.src) {
-                                iframeEl.style.height = messageData.scrollHeight + 20 + 'px'; }
-                        }, false);
-                    </script>
+
 
 ```
 <iframe id="iframe-container" src="https://events.humanitix.com/event-listings?w=true&u=GdtEJ6gJgWeRGg2Nd4jvfQugnmw2&o=all&bc=%23353337&bt=Get%20Tickets&tc=%23FFFFFF" width="100%" height="600px" frameborder="0"></iframe>
