@@ -16,9 +16,9 @@ Whether you are a impact entrepreneur, creation, innovation, intrapreneur or jus
 
 ### UPCOMING HUI/EVENTS IN TĀMAKI MAKAURAU
 
-{{< optimisedImage image="images/banner-events.jpg" height=280  alt="Upcoming Events" >}}
+{{< optimisedImage image="images/banner-events.jpg" height=280   alt="Upcoming Events" >}}
 
-<iframe id="iframe-container" src="https://events.humanitix.com/event-listings?w=true&u=GdtEJ6gJgWeRGg2Nd4jvfQugnmw2&o=all&bc=%23353337&bt=Get%20Tickets&tc=%23FFFFFF" width="100%" height="600px" frameborder="0"></iframe>
+<iframe id="iframe-container" src="https://events.humanitix.com/event-listings?w=true&u=GdtEJ6gJgWeRGg2Nd4jvfQugnmw2&o=62b11f24d82cf10b3d71e2b8&bc=%23353337&bt=Get%20Tickets&tc=%23FFFFFF" width="100%" height="600px" frameborder="0"></iframe>
                     <script>
                         window.addEventListener('message', function (e) {
                             if (e.origin !== "https://events.humanitix.com"){
