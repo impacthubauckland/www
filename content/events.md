@@ -18,4 +18,4 @@ Whether you are a impact entrepreneur, creation, innovation, intrapreneur or jus
 
 {{< optimisedImage image="images/banner-events.jpg" height=280               alt="Upcoming Events" >}}
 
-{{< humanitix userid="GdtEJ6gJgWeRGg2Nd4jvfQ​ugnmw2" height=600 >}}
+{{< humanitix link="https://events.humanitix.com/event-listings?w=true&u=grU4s1jfyhQe0anzJjRbVXPlKF92&o=all&bc=%23353337&bt=Get%20Tickets&tc=%23FFFFFF" height=600 >}}
