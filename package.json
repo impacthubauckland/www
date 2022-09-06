@@ -13,7 +13,7 @@
     "build": "tailwindcss -i ./themes/impacthub/assets/css/main.css -o ./themes/impacthub/assets/css/style.css && hugo --minify"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.2",
+    "@tailwindcss/typography": "^0.5.7",
     "autoprefixer": "^10.4.7",
     "concurrently": "^7.2.1",
     "postcss": "^8.4.14",
