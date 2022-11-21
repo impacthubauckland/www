@@ -48,18 +48,3 @@ The small and mighty IHA team is a driving force behind this new impact eco-syst
         <img class="w-auto h-56 rounded-2xl mx-auto" src="/images/stefan-photo.jpg" alt="">
       <p class="text-lg font-medium">
       <a href="https://www.linkedin.com/in/stefan-r%C3%BCegg-b488296/">Stefan Rüegg</a> is a co founder of Impact Hub Auckland and also <a href="http://proxima.global/">Proxima Global</a>. He is a highly versatile strategist, networker and change agent whose work focuses on catalysing positive social and environmental impact in business. He combines more than fifteen years of sustainability experience as a business consultant and corporate sustainability analyst. Originally he qualified as an environmental scientist from Switzerland’s leading scientific university.
-      </p>
-  </div>
-</figure>
-{{</ rawhtml >}}
-### Sasha Joseph
-{{< rawhtml >}}
-<figure class="rounded-xl">
-  <div class="space-y-4">
-      <p class="text-lg font-medium">
-        <img class="w-auto h-56 rounded-2xl mx-auto" src="/images/sasha-sq.jpg" alt="" width="384" height="512">
-        <a href="https://www.linkedin.com/in/sasha-joseph-4a248522a/">Sasha Joseph</a> has a background in learning and development, events management, and recruitment. As a learning and development professional, she enjoys designing solutions to improve people's performance and engagement. After visiting Impact Hub Geneva, Sasha walked away with a desire to bring the Impact Hub experience to Auckland. Being in a space with like-minded curious, entrepreneurial, and passionate people is the perfect combination for change-making in Aotearoa. This is Sasha's first entrepreneurial venture.
-      </p>
-  </div>
-</figure>
-{{</ rawhtml >}}
